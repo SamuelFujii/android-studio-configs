@@ -1,0 +1,1604 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Assignment issuesGroovy</id>
+          </State>
+          <State>
+            <id>Assignment issuesJava</id>
+          </State>
+          <State>
+            <id>C/C++</id>
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>ClassesObjective-C</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesGroovy</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Data flowGroovy</id>
+          </State>
+          <State>
+            <id>Data flowJava</id>
+          </State>
+          <State>
+            <id>Declaration orderC/C++</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>EncapsulationJava</id>
+          </State>
+          <State>
+            <id>Error handlingGroovy</id>
+          </State>
+          <State>
+            <id>Error handlingJava</id>
+          </State>
+          <State>
+            <id>FunctionsC/C++</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralObjective-C</id>
+          </State>
+          <State>
+            <id>Google Cloud Endpoints</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>IconsUsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>InitializationJava</id>
+          </State>
+          <State>
+            <id>InternationalizationJava</id>
+          </State>
+          <State>
+            <id>InteroperabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>JNIAndroid</id>
+          </State>
+          <State>
+            <id>JUnitJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level issuesJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Kotlin Android</id>
+          </State>
+          <State>
+            <id>Kotlin InteroperabilityInteroperabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>LoggingJava</id>
+          </State>
+          <State>
+            <id>MessagesCorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Method metricsGroovy</id>
+          </State>
+          <State>
+            <id>Method metricsJava</id>
+          </State>
+          <State>
+            <id>MethodsObjective-C</id>
+          </State>
+          <State>
+            <id>Naming conventionsGroovy</id>
+          </State>
+          <State>
+            <id>Naming conventionsJava</id>
+          </State>
+          <State>
+            <id>Objective-C</id>
+          </State>
+          <State>
+            <id>PerformanceJava</id>
+          </State>
+          <State>
+            <id>PerformanceLintAndroid</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Redundant constructsKotlin</id>
+          </State>
+          <State>
+            <id>RoomAndroid</id>
+          </State>
+          <State>
+            <id>SecurityLintAndroid</id>
+          </State>
+          <State>
+            <id>Style issuesKotlin</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>Type checksC/C++</id>
+          </State>
+          <State>
+            <id>Unused codeC/C++</id>
+          </State>
+          <State>
+            <id>UsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>Verbose or redundant code constructsJava</id>
+          </State>
+          <State>
+            <id>VisibilityJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>ParameterHidingMemberVariable</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="1YaGByfUEmRNwWGcHXykGvJD92E">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1hXa8GDJmOVQc5wrWwrUd2UFhJZ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1oa0OqxzI8XbEYrFzLM7Es3thC5">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1qCiY9nrckX9wWD8VXRV4XZoxgJ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1qCk9PH3SPUjTZuNOvVzaEMLvFY">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1qIb8UPPOAnolJKJYOOEk4QlDOv">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1rCuD8ffFw7tK1ZKZe3XVPgnBMh">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1riQnZ9R8gStKPYhGMiGGyCTP4f">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1vS1suV6ZKi8fwsjr0JbRp4kwYw">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="21HKs9MHybwLQblPmbN5NVbYoLx">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="21jhSKFk36tVWfXiKMaNIto2vSH">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="22QeRMiYDazgybqOdbkyeXLQ7eu">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24bf3ZipTKRrKS7BF5kWCuRFIPC">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="271N8QLm6hkrBOazp3q5iT7naSY">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="28RF0vRMHNOFzEGYIp1A1qeF3d6">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="28TrXCteNKni7viwo6LmBa4HXzx">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="28kQGvyyfhKUbtec8B8vG9nl5H5">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="294CqcXjFZ3YdecRMXnbqYIkHur">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2CJBrzhoFLGgKHAl8COXTkSxUJD">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2FFHkHZqtIaJgyxa2EcaO3XDdAl">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2FlgW9lWm5FG4rWNTqIpE38y2nN">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2FzhBs0W4JNgAhpZGDo9R2xfsHR">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GupMZM6Yh4NCyYboU0uoGQ5yQr">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GxAxsw2Yy2gZmO7Kc2tTSyDL0j">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2IMwTLdiRkNh2gCSqHf51e2aYgt">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2IN4RlT7EcD0wsKTL0kYo00syzO">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2IN4WvFcBqok2gH7kIUaQbLqV58">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Irj2Ku5uU2OcB7u9cFcrVOeYqR">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2IrjG7QWol59zSPl3T119HbYhSK">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2MBg03wenbhRoPXVEyZWf1WyvRQ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2MC2d4MkbqHZ7auCnxLNWFVs7fz">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2MQ6FnInXDOU9keuoO8fgWlr5C0">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2OKfcluis5w0FEdhB6baKBnxbdw">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2SG8i8DZWrCqn8QohoT69iBqKdw">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="FileEditorProviderManager">{
+  &quot;selectedProviders&quot;: {
+    &quot;text-editor,android-manifest&quot;: &quot;text-editor&quot;,
+    &quot;text-editor,android-manifest,android-manifest&quot;: &quot;text-editor&quot;
+  }
+}</component>
+  <component name="JdkInstallerHistory">
+    <option name="installedItems">
+      <installed-jdk>
+        <option name="fullText" value="Amazon Corretto 11.0.20" />
+        <option name="installDir" value="C:\Users\Unknown\.jdks\corretto-11.0.20" />
+        <option name="sha256" value="c682fca3e864ce15da4b7783d2cdf2dd31b88052b37fba0e56d50808c29283c0" />
+        <option name="url" value="https://corretto.aws/downloads/resources/11.0.20.8.1/amazon-corretto-11.0.20.8.1-windows-x64-jdk.zip" />
+        <option name="versionText" value="11.0.20" />
+      </installed-jdk>
+    </option>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="12.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="1hXa8GDJmOVQc5wrWwrUd2UFhJZ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1oa0OqxzI8XbEYrFzLM7Es3thC5">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1qCk9PH3SPUjTZuNOvVzaEMLvFY">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1qIb8UPPOAnolJKJYOOEk4QlDOv">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1r7xiZFd9sAXsySekB6KYaWe9T9">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1rCuD8ffFw7tK1ZKZe3XVPgnBMh">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1riQnZ9R8gStKPYhGMiGGyCTP4f">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1s2FhFzx7cYervCATrs0KElQQve">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1vS1suV6ZKi8fwsjr0JbRp4kwYw">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1yQ67cqNSsAAi0HSLf3CAqMEi1A">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1yjGkjLSm4ROMcPdJxc0RU39WIY">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="205yBBz5HUYYlZ5BQP8802ZPcpy">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="205zEUUkwtp0sGHZSGipxLt1khk">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="21HKs9MHybwLQblPmbN5NVbYoLx">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="21jhSKFk36tVWfXiKMaNIto2vSH">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="22b6qUvtVYmC6MddTIcWm5Bygec">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24TGrFgvE2kLgPojRWDngi1r5JV">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24beX2ovpihsW8FIh7Z1Hd6k1Lw">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24bf3ZipTKRrKS7BF5kWCuRFIPC">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="25FYzQj8S5wkf6TMVAO44iPB6Rc">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26ULxd3EnfPq0g5r4296FnySKkx">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="26fYjMcQOIr0TKonxU4ZAwGseYO">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="271N8QLm6hkrBOazp3q5iT7naSY">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="27z1cr5NdQ9N49xo7ahEL1nfIM2">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="28REpHp7ZfXGDLrYg6TxsHBQIEX">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="28RF0vRMHNOFzEGYIp1A1qeF3d6">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="28TrXCteNKni7viwo6LmBa4HXzx">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="28kMEiEVmW88ipNybSDi4PoGV5e">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="28kQGvyyfhKUbtec8B8vG9nl5H5">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="28kkljhDRazx6MbXas3RWSLnTEW">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="28nZzh7zxRt08tYYcqe0mj2OPWR">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="294CqcXjFZ3YdecRMXnbqYIkHur">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="29Ix7XQ470LWXf1tgkbKrLu3H9j">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2A4TcPzfyggvGEkrEFX6jDQW77W">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Bd9ZC40wF1yEyjR3rNNX0X4Avy">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2CJBrzhoFLGgKHAl8COXTkSxUJD">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2DBUoIyliN7iIilxk33jwGKtn6M">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2DBUuw8YgqXf1T8EUNMqOAbzz5S">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2DBVpU0Rv6Cj3BuYFd1hPOPD9yw">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2DBWlFbPcJ7GvJ5ZO7uViaJPxI2">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2DBX0MOEjPcAVWfZ6h7Sb2GM3RR">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2DBdRRLYXJn44i3xq18nH0mugh2">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2FFHkHZqtIaJgyxa2EcaO3XDdAl">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="08853737-5a51-4c05-8532-a1ba33abc7a4" value="MTU5NzE4MDQ5NTYxNQ==" />
+    <property name="ANDROID_FIND_STYLE_APPLICATION_SCOPE" value="FILE" />
+    <property name="ANDROID_THEME_HISTORY" value="Theme.Shoprice.PopupOverlay&#10;Dialog&#10;Theme.MaterialComponents&#10;Theme.materialcomponents.n" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.DESIGN_FILES_PREVIEW_EDITOR.TOOL_ORDER" value="" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Database Inspector.DATABASES.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Database Inspector.DATABASES.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Database Inspector.DATABASES.MINIMIZED" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Database Inspector.DATABASES.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Database Inspector.TOOL_ORDER" value="DATABASES" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.PROPERTIES.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.PROPERTIES.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.PROPERTIES.MINIMIZED" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.PROPERTIES.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.TOOL_ORDER" value="TREE,PROPERTIES" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.TREE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.TREE.MINIMIZED" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.TREE.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Main Preview.TOOL_ORDER" value="" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.HOSTS.FULL.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.HOSTS.FULL.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.HOSTS.FULL.MINIMIZED" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.HOSTS.FULL.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.HOSTS.SPLIT.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.HOSTS.SPLIT.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.HOSTS.SPLIT.MINIMIZED" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.HOSTS.SPLIT.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.PROPERTIES.FULL.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.PROPERTIES.FULL.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.PROPERTIES.FULL.MINIMIZED" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.PROPERTIES.FULL.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.PROPERTIES.SPLIT.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.PROPERTIES.SPLIT.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.PROPERTIES.SPLIT.MINIMIZED" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.PROPERTIES.SPLIT.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.TOOL_ORDER" value="PROPERTIES,TREE,HOSTS" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.TREE.FULL.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.TREE.FULL.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.TREE.FULL.MINIMIZED" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.TREE.FULL.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.TREE.SPLIT.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.TREE.SPLIT.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.TREE.SPLIT.MINIMIZED" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.TREE.SPLIT.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.DEACTIVATED.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.DEACTIVATED.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.DEACTIVATED.MINIMIZED" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.DEACTIVATED.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.MINIMIZED" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT.MINIMIZED" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.DEACTIVATED.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.DEACTIVATED.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.DEACTIVATED.MINIMIZED" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.DEACTIVATED.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.MINIMIZED" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT.MINIMIZED" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.DEACTIVATED.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.DEACTIVATED.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.DEACTIVATED.MINIMIZED" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.DEACTIVATED.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.MINIMIZED" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT.MINIMIZED" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.TOOL_ORDER" value="PALETTE,COMPONENT_TREE,PROPERTIES" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Visualization.TOOL_ORDER" value="" />
+    <property name="ATTACHED_TOOL_WINDOW.DESIGN_FILES_PREVIEW_EDITOR.TOOL_ORDER" value="" />
+    <property name="ATTACHED_TOOL_WINDOW.Database Inspector.DATABASES.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Database Inspector.LEFT.UNSCALED.WIDTH" value="291" />
+    <property name="ATTACHED_TOOL_WINDOW.Database Inspector.RIGHT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.Database Inspector.TOOL_ORDER" value="DATABASES" />
+    <property name="ATTACHED_TOOL_WINDOW.Layout Inspector.LEFT.UNSCALED.WIDTH" value="423" />
+    <property name="ATTACHED_TOOL_WINDOW.Layout Inspector.RIGHT.UNSCALED.WIDTH" value="415" />
+    <property name="ATTACHED_TOOL_WINDOW.Layout Inspector.TOOL_ORDER" value="TREE,PROPERTIES" />
+    <property name="ATTACHED_TOOL_WINDOW.Layout Inspector.TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Main Preview.TOOL_ORDER" value="" />
+    <property name="ATTACHED_TOOL_WINDOW.NAV_EDITOR.HOSTS.FULL.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NAV_EDITOR.HOSTS.SPLIT.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NAV_EDITOR.HOSTS.SPLIT.MINIMIZED" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NAV_EDITOR.PROPERTIES.SPLIT.MINIMIZED" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NAV_EDITOR.TOOL_ORDER" value="PROPERTIES,TREE,HOSTS" />
+    <property name="ATTACHED_TOOL_WINDOW.NAV_EDITOR.TREE.FULL.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NAV_EDITOR.TREE.FULL.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NAV_EDITOR.TREE.SPLIT.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NAV_EDITOR.TREE.SPLIT.MINIMIZED" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NAV_EDITOR.TREE.SPLIT.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.DEACTIVATED.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.DEACTIVATED.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.FULL.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.FULL.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT.MINIMIZED" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.LEFT.UNSCALED.WIDTH" value="285" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.DEACTIVATED.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.FULL.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.SPLIT.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.SPLIT.MINIMIZED" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PROPERTIES.SPLIT.MINIMIZED" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.RIGHT.UNSCALED.WIDTH" value="480" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.RIGHT.WIDTH" value="204" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.TEXT_SEARCH_HISTORY" value="divid&#10;recycler&#10;phone&#10;guide&#10;guidel" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.TOOL_ORDER" value="PALETTE,COMPONENT_TREE,PROPERTIES" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.LEFT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.RIGHT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="ATTACHED_TOOL_WINDOW.Visualization.TOOL_ORDER" value="" />
+    <property name="ActionMacroConfigurationPanel.SPLITTER_PROPORTION" value="0.5" />
+    <property name="AndroidCodeStyleSettings.ArrangementSettingsSetToVersion3" value="true" />
+    <property name="AndroidCodeStyleSettings.V1" value="true" />
+    <property name="AndroidExtractStyleSearchStyleApplications" value="true" />
+    <property name="AndroidInitConfigurator.V1" value="true" />
+    <property name="AndroidInitConfigurator.V2" value="true" />
+    <property name="AndroidInitConfigurator.V3" value="true" />
+    <property name="AndroidInitConfigurator.V4" value="true" />
+    <property name="AndroidInitConfigurator.V5" value="true" />
+    <property name="AndroidPlatformName" value="Android API 26 Platform" />
+    <property name="BuildAnalyzer.TasksView.Splitter.Proportion" value="0.4496537" />
+    <property name="BuildAnalyzer.WarningsView.Splitter.Proportion" value="0.36594203" />
+    <property name="BuildView.Splitter.Proportion" value="0.38257575" />
+    <property name="CarminApi" value="21" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.43633458" />
+    <property name="ColorChooser.RecentColors" value="61-164-220-255,,,61-159-220-255,,,255-255-255-255,,,115-171-255-255,,,81-124-255-255,,,0-255-154-255,,,94-8-255-255,,,161-135-119-255,,,255-193-7-255,,,255-152-0-255,,,1-87-155-255,,,0-143-82-255,,,41-0-228-255,,,255-166-216-255,,,77-140-228-255,,,56-118-228-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6930693" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.63169163" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="FindSplitterProportion" value="0.0" />
+    <property name="Gradle.Splitter.Proportion" value="0.33038348" />
+    <property name="GradleSupport.hidePassedTests" value="false" />
+    <property name="GradleSupport.showInternalTestNodes" value="false" />
+    <property name="INSPECTION_FILTER_HISTORY" value="template&#10;parameter&#10;remove&#10;method&#10;unused parameter&#10;un parameter&#10;explicit&#10;this&#10;unqu&#10;quali" />
+    <property name="InstalledPluginsSearchHistory" value="java&#10;git&#10;jdk&#10;jd&#10;firebase" />
+    <property name="JUnit.Splitter.Proportion" value="0.2721239" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="KEYMAP" value="ctrl&#10;redo" />
+    <property name="LOG_FILTER_HISTORY" value="exc&#10;ShopListRepository&#10;Apollo&#10;teste&#10;Is Loading|PrepareData|isVisible" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="true" />
+    <property name="LayoutCode.rearrangeEntriesKotlin" value="false" />
+    <property name="MarketplacePluginsSearchHistory" value="cache&#10;key promoter&#10;key promoterx&#10;Size Analyzer&#10;Androi Size Analyzer" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MobileminApi" value="21" />
+    <property name="MultipleBuildsView.Splitter.Proportion" value="0.15800866" />
+    <property name="NextRunPlatformUpdateBuild" value="AI-222.4459.24.2221.9971841/Flamingo | 2022.2.1 Patch 1" />
+    <property name="NextRunPlatformUpdateVersion" value="Flamingo | 2022.2.1 Patch 1" />
+    <property name="NlScreenMode" value="RENDER" />
+    <property name="NlScreenModeProvider" value="RENDER" />
+    <property name="NonModalCommitPromotionState" value="ACCEPTED" />
+    <property name="SAVED_ANDROID_NPW_ASKED_LANGUAGE" value="true" />
+    <property name="SAVED_ANDROID_NPW_LANGUAGE" value="Kotlin" />
+    <property name="SAVED_ANDROID_PACKAGE" value="br.com.mc1.examples" />
+    <property name="SAVED_BYTECODE_LEVEL" value="8 (slower build)" />
+    <property name="SAVED_COMPANY_DOMAIN" value="samuelfujii.com.br" />
+    <property name="SAVED_RENDER_LANGUAGE" value="Kotlin" />
+    <property name="SPLIT_EDITOR_MODE_C:/Users/Unknown/.gradle/caches/transforms-2/files-2.1/29e754aaf093b68af62ef69310c98f40/jetified-WTMPlatform-3.9.4.2/res/layout/dialog_clear_database_support_password.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_C:/Users/Unknown/.gradle/caches/transforms-2/files-2.1/54a53f0d283d7f0bafb5069a7b5a335c/jetified-WTMPlatform-3.9.0-RC28/res/layout/activity_mc1_sync.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_C:/Users/Unknown/.gradle/caches/transforms-2/files-2.1/54a53f0d283d7f0bafb5069a7b5a335c/jetified-WTMPlatform-3.9.0-RC28/res/layout/mc1_form.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_C:/Users/Unknown/.gradle/caches/transforms-2/files-2.1/7411e39aa5403d7127582c3887d8feb6/material-1.2.1/res/layout/design_menu_item_action_area.xml" value="DEACTIVATED" />
+    <property name="SPLIT_EDITOR_MODE_C:/Users/Unknown/.gradle/caches/transforms-2/files-2.1/a449401b7d50b8806ba83138f573135e/jetified-WTMPlatform-3.12.11/res/layout/activity_splash.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_C:/Users/Unknown/.gradle/caches/transforms-3/46a89e4862d6b7e693128c7239439dfe/transformed/material-1.4.0/res/layout/design_bottom_sheet_dialog.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_C:/Users/Unknown/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_list_item_1.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/BRF BR/BRFBR - WTM Android v3/app/src/main/res/layout/activity_general_order.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/BRF BR/BRFBR - WTM Android v3/app/src/main/res/layout/activity_ppc_survey_list.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/BRF BR/BRFBR - WTM Android v3/app/src/main/res/layout/dialog_apply.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/BRF BR/BRFBR - WTM Android v3/app/src/main/res/layout/dialog_apply_discount_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/BRF BR/BRFBR - WTM Android v3/app/src/main/res/layout/fragment_negotiation_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/BRF BR/BRFBR - WTM Android v3/app/src/main/res/layout/fragment_negotiation_item_combo.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/BRF BR/BRFBR - WTM Android v3/app/src/main/res/layout/fragment_order_header.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/BRF BR/BRFBR - WTM Android v3/app/src/main/res/layout/fragment_ppc_survey_product_detail.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/BRF BR/BRFBR - WTM Android v3/app/src/main/res/layout/fragment_quick_sale.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/BRF BR/BRFBR - WTM Android v3/app/src/main/res/layout/order_header_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/BRF BR/BRFBR - WTM Android v3/app/src/main/res/layout/order_items_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/BRF BR/BRFBR - WTM Android v3/app/src/main/res/layout/order_items_list_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/BRF BR/BRFBR - WTM Android v3/app/src/main/res/layout/order_items_list_item_a.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/BRF BR/BRFBR - WTM Android v3/app/src/main/res/layout/order_summary_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/BRF BR/BRFBR - WTM Android v3/app/src/main/res/layout/ppc_survey_product_detail_list_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/BRF BR/BRFBR - WTM Android v3/app/src/main/res/layout/quick_sale_list_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/BRF BR/BRFBR - WTM Android v3/app/src/main/res/layout/skus_list_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Bocadeli/Bocadeli - WTM Android V3/app/src/main/res/layout/activity_cancel_order.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/CBL - Celebration Brands Limited/CBL - WTM DSD Android/wtm-view-customized/src/main/res/layout/cnd_customer_tracking_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/CBL - Celebration Brands Limited/CBL - WTM DSD Android/wtm-view-customized/src/main/res/layout/cnd_order_return_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/CBL - Celebration Brands Limited/CBL - WTM DSD Android/wtm-view-customized/src/main/res/layout/customer_itinerary_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/CND/CND - WTM Android v3/app/src/main/res/layout/activity_c_n_d_inventario.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/CND/CND - WTM Android v3/app/src/main/res/layout/fragment_order_header.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/CND/CND - WTM Android v3/app/src/main/res/layout/fragment_stock_inventory.xml" value="DEACTIVATED" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/CND/CND - WTM Android v3/app/src/main/res/layout/order_items_list_item_compact.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/CND/CND - WTM Android v3/app/src/main/res/layout/payment_summary_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/CND/CND - WTM Android v3/app/src/main/res/layout/public_items_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/CND/CND - WTM Android v3/app/src/main/res/layout/public_note_items.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/CND/CND - WTM Android v3/app/src/main/res/menu/menu_base_stock.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Ferreiro Latam/FERL - WTM V3 Trade Android/app/src/main/res/layout/activity_splash_screen.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Ferreiro Latam/FERL - WTM V3 Trade Android/app/src/main/res/layout/activity_template_selection.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Grupo Lacthosa/LAC - WTM Android v3/app/src/main/res/layout/fragment_order_header.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Heineken BR/HKBR - WTM Android V3/app/src/main/res/layout/activity_general_order.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Heineken BR/HKBR - WTM Android V3/app/src/main/res/layout/fragment_order_finalization_bottom_sheet_no_app_bar.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Heineken BR/HKBR - WTM Android V3/app/src/main/res/layout/fragment_order_header.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Heineken BR/HKBR - WTM Android V3/app/src/main/res/layout/fragment_product_image.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Heineken BR/HKBR - WTM Android V3/app/src/main/res/layout/fragment_with_mechanic.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Heineken BR/HKBR - WTM Android V3/app/src/main/res/layout/free_goods_order_items_list_item_compact.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Heineken BR/HKBR - WTM Android V3/app/src/main/res/layout/order_items_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Heineken BR/HKBR - WTM Android V3/app/src/main/res/layout/order_items_free_goods_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Heineken BR/HKBR - WTM Android V3/app/src/main/res/layout/order_items_list_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Heineken BR/HKBR - WTM Android V3/app/src/main/res/layout/order_summary_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Heineken BR/HKBR - WTM Android V3/app/src/main/res/layout/sliding_tabs_activity.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Heineken/Android/HKM - WTM Pre-Sales Android/heineken_wtm3ps/src/main/res/layout/fragment_ad_carousel_view.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Heineken/Android/HKM - WTM Pre-Sales Android/heineken_wtm3ps/src/main/res/layout/fragment_general_customer_rappel.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Heineken/Android/HKM - WTM Pre-Sales Android/heineken_wtm3ps/src/main/res/layout/fragment_liquid_products_list.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Heineken/Android/HKM - WTM Pre-Sales Android/heineken_wtm3ps/src/main/res/layout/fragment_order_charging.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Heineken/Android/HKM - WTM Pre-Sales Android/heineken_wtm3ps/src/main/res/layout/fragment_order_empties_sale_summary.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Heineken/Android/HKM - WTM Pre-Sales Android/heineken_wtm3ps/src/main/res/layout/fragment_order_free_goods_product_list.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Heineken/Android/HKM - WTM Pre-Sales Android/heineken_wtm3ps/src/main/res/layout/fragment_order_liquid_cheque.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Heineken/Android/HKM - WTM Pre-Sales Android/heineken_wtm3ps/src/main/res/layout/fragment_order_liquid_summary_selected_items.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Heineken/Android/HKM - WTM Pre-Sales Android/heineken_wtm3ps/src/main/res/layout/fragment_order_rules.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Heineken/Android/HKM - WTM Pre-Sales Android/heineken_wtm3ps/src/main/res/layout/fragment_promotion_list.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Heineken/Android/HKM - WTM Pre-Sales Android/heineken_wtm3ps/src/main/res/layout/fragment_services_order_header.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Heineken/Android/HKM - WTM Pre-Sales Android/heineken_wtm3ps/src/main/res/layout/service_order_equipment_installation_list_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Heineken/Android/HKM - WTM Pre-Sales Android/heineken_wtm3ps/src/main/res/layout/summary_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Herdez/HERDEZ - WTM Android V3/app/src/main/res/layout/fragment_order_header.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Herdez/HERDEZ - WTM Android V3/app/src/main/res/layout/order_header_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Herdez/HERDEZ - WTM Android V3/app/src/main/res/layout/order_items_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Herdez/HERDEZ - WTM Android V3/app/src/main/res/layout/order_items_list_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Interview/app/src/main/res/layout/activity_main.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Interview/app/src/main/res/layout/fragment_dashboard.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Interview/app/src/main/res/layout/fragment_favorites.xml" value="DEACTIVATED" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Interview/app/src/main/res/layout/fragment_home.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Interview/app/src/main/res/layout/fragment_notifications.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Interview/app/src/main/res/menu/bottom_nav_menu.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Interview/app/src/main/res/navigation/mobile_navigation.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1 Development Examples/MC1 Android - Address Showcase/app/src/main/res/layout/activity_main.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1 Development Examples/MC1 Android - Address Showcase/app/src/main/res/layout/address_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1 Development Examples/MC1 Android - Address Showcase/app/src/main/res/layout/fragment_dashboard.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1 Development Examples/MC1 Android - Address Showcase/app/src/main/res/menu/bottom_nav_menu.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1 Development Examples/MC1 Android - Address Showcase/app/src/main/res/navigation/mobile_navigation.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1 Development Examples/MC1 Android - Simple Order Example/app/src/main/res/layout/activity_main.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1 Development Examples/MC1 Android - Simple Order Example/app/src/main/res/layout/fragment_list.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1 Development Examples/MC1 Android - Simple Order Example/app/src/main/res/layout/list_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1 Development Examples/MC1 Android - Simple Order Example/app/src/main/res/layout/progress_view.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1 Development Examples/MC1 Android - Simple Order/app/src/main/res/layout/activity_main.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1 Development Examples/MC1 Android - Simple Order/app/src/main/res/layout/fragment_list.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1 Development Examples/MC1 Android - Simple Order/app/src/main/res/layout/list_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1 Development Examples/MC1 Android - Simple Order/app/src/main/res/layout/progress_view.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1 Development Examples/SimpleOrder/app/src/main/res/layout/activity_main.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1 Development Examples/SimpleOrder/app/src/main/res/layout/fragment_list.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1 Development Examples/SimpleOrder/app/src/main/res/layout/fragment_main.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1 Development Examples/SimpleOrder/app/src/main/res/layout/list_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1 Development Examples/SimpleOrder/app/src/main/res/layout/progress_view.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/activity_general_order.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/activity_splash_screen.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/activity_template_selection.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/billet_preview_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/combo_order_items_list_item_compact.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/combo_order_items_list_item_details.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/combo_product_item_list_item_compact.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/custom_date_picker_view.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/custom_simple_spinner_dropdown_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/custom_simple_spinner_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/debug_billet_preview_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/debug_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/debug_layout_preview_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/fragment_order_header.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/fragment_preview_layout.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/fragment_pricing_formation.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/fragment_pricing_formation_list.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/free_goods_order_items_list_item_compact.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/image_scan_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/layout_preview_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/missing_products_layout.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/number_input_field_view.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/order_header_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/order_items_combo_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/order_items_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/order_items_free_goods_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/order_items_list_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/order_items_list_item_a.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/order_items_list_item_compact.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/order_summary_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/order_summary_fragment_a.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/products_selection_fast_mode_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/progress_view.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/sample_auto_complete_item_selector.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/sample_custom_spinner.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/transparent_empty_activity.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/menu/menu_base_order.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Mars/MARSMX - WTM Android/app/src/main/res/layout/free_goods_order_items_list_item_compact.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Mars/MARSMX - WTM Android/app/src/main/res/layout/order_items_free_goods_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Minerva/MINBR - WTM Android v3/app/src/main/res/layout/activity_general_order.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Minerva/MINBR - WTM Android v3/app/src/main/res/layout/fragment_order_header.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Minerva/MINBR - WTM Android v3/app/src/main/res/layout/order_header_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Moderna/MOD - WTM Android v3/app/src/main/res/layout/activity_general_order.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Moderna/MOD - WTM Android v3/app/src/main/res/layout/activity_template_selection.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Moderna/MOD - WTM Android v3/app/src/main/res/layout/fragment_add_new_payment_kind.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Moderna/MOD - WTM Android v3/app/src/main/res/layout/fragment_order_header.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Moderna/MOD - WTM Android v3/app/src/main/res/layout/list_alert_dialog_layout.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Moderna/MOD - WTM Android v3/app/src/main/res/layout/order_items_list_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Mondelez Brasil/MONDB - WTM Android v3/app/src/main/res/layout/activity_splash_screen.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Test/MC1 Interview - Android Test/app/src/main/res/drawable/button_favorite.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Test/MC1 Interview - Android Test/app/src/main/res/layout/activity_main.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Test/MC1 Interview - Android Test/app/src/main/res/layout/address_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Test/MC1 Interview - Android Test/app/src/main/res/layout/address_list_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Test/MC1 Interview - Android Test/app/src/main/res/layout/favorites_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Test/MC1 Interview - Android Test/app/src/main/res/layout/fragment_address.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Test/MC1 Interview - Android Test/app/src/main/res/layout/fragment_address_creation.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Test/MC1 Interview - Android Test/app/src/main/res/layout/fragment_address_list.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Test/MC1 Interview - Android Test/app/src/main/res/layout/fragment_favorites.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Test/MC1 Interview - Android Test/app/src/main/res/layout/fragment_home.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Test/MC1 Interview - Android Test/app/src/main/res/menu/bottom_nav_menu.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Test/MC1 Interview - Android Test/app/src/main/res/navigation/mobile_navigation.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Test/MC1ExamplesMeeting1/app/src/main/res/layout/activity_main.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Test/SimpleOrder/app/src/main/res/layout/activity_main.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Test/SimpleOrder/app/src/main/res/layout/fragment_main.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Votorantim/VOT - WTM Android/wtm-view-customized/src/main/res/layout/vcbr_discountsimulator_simulator_policy_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WTM Android v1/WTM Sustain 1.8/wtm-view/src/main/res/layout/config_activity.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WTM Android v1/WTM Sustain 1.8/wtm-view/src/main/res/layout/config_clear_data_dialog.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WTM Android v1/WTM Sustain 1.8/wtm-view/src/main/res/layout/config_menu_item.xml" value="DEACTIVATED" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WTM Android v1/WTM Sustain 1.8/wtm-view/src/main/res/layout/config_user_dialog.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WTM Android v1/WTM Sustain 1.8/wtm-view/src/main/res/layout/login_activity.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WTM Android v1/WTM Sustain 1.8/wtm-view/src/main/res/layout/login_bottom_menu.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WTM Android v1/WTM Sustain 1.8/wtm-view/src/main/res/layout/main_activity.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WTM Android v1/WTM Sustain 1.8/wtm-view/src/main/res/layout/main_bottom_menu.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WTM Android v1/WTM Sustain 1.8/wtm-view/src/main/res/layout/main_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WTM Android v1/WTM Sustain 1.8/wtm-view/src/main/res/layout/printer_model_chooser_dialog.xml" value="DEACTIVATED" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WTM Android/WTM Android/WTMApp/app/src/main/res/layout/activity_general_order.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WTM Android/WTM Android/WTMApp/app/src/main/res/layout/custom_negotiation_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WTM Android/WTM Android/WTMApp/app/src/main/res/layout/custom_order_items_list_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WTM Android/WTM Android/WTMApp/app/src/main/res/menu/custom_menu_base_order.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WTM Android/WTM Android/WTMPlatform/src/main/res/layout/activity_general_order.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WTM Android/WTM Android/WTMPlatform/src/main/res/layout/activity_template_selection.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WTM Android/WTM Android/WTMPlatform/src/main/res/layout/fragment_order_finalization_bottom_sheet_no_app_bar.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WTM Android/WTM Android/WTMPlatform/src/main/res/layout/fragment_order_header.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WTM Android/WTM Android/WTMPlatform/src/main/res/layout/order_items_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WTM Android/WTM Android/WTMPlatform/src/main/res/layout/order_items_list_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WTM Android/WTM Android/WTMPlatform/src/main/res/layout/order_items_list_item_compact.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WTM Android/WTM Android/WTMPlatform/src/main/res/menu/menu_base_order.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WhiteMartins/Android/WTMV3/whitem-wtm3-android/app/src/main/res/drawable/ic_barcode_scan_white_24dp.xml" value="DEACTIVATED" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WhiteMartins/Android/WTMV3/whitem-wtm3-android/app/src/main/res/layout/activity_billet_generation.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WhiteMartins/Android/WTMV3/whitem-wtm3-android/app/src/main/res/layout/activity_general_order.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WhiteMartins/Android/WTMV3/whitem-wtm3-android/app/src/main/res/layout/activity_report_generation.xml" value="FULL" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WhiteMartins/Android/WTMV3/whitem-wtm3-android/app/src/main/res/layout/activity_template_selection.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WhiteMartins/Android/WTMV3/whitem-wtm3-android/app/src/main/res/layout/billet_preview_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WhiteMartins/Android/WTMV3/whitem-wtm3-android/app/src/main/res/layout/debug_billet_preview_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WhiteMartins/Android/WTMV3/whitem-wtm3-android/app/src/main/res/layout/debug_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WhiteMartins/Android/WTMV3/whitem-wtm3-android/app/src/main/res/layout/debug_product_list_item_compact.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WhiteMartins/Android/WTMV3/whitem-wtm3-android/app/src/main/res/layout/fragment_order_header.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WhiteMartins/Android/WTMV3/whitem-wtm3-android/app/src/main/res/layout/general_change_reason_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WhiteMartins/Android/WTMV3/whitem-wtm3-android/app/src/main/res/layout/include_order_reference_number_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WhiteMartins/Android/WTMV3/whitem-wtm3-android/app/src/main/res/layout/include_reference_order_number_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WhiteMartins/Android/WTMV3/whitem-wtm3-android/app/src/main/res/layout/main_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WhiteMartins/Android/WTMV3/whitem-wtm3-android/app/src/main/res/layout/order_item_traceability_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WhiteMartins/Android/WTMV3/whitem-wtm3-android/app/src/main/res/layout/order_item_traceability_list_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WhiteMartins/Android/WTMV3/whitem-wtm3-android/app/src/main/res/layout/order_items_list_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WhiteMartins/Android/WTMV3/whitem-wtm3-android/app/src/main/res/layout/order_product_category_selection_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WhiteMartins/Android/WTMV3/whitem-wtm3-android/app/src/main/res/layout/order_summary_fragment.xml" value="DEACTIVATED" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WhiteMartins/Android/WTMV3/whitem-wtm3-android/app/src/main/res/layout/print_fiscal_documents_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WhiteMartins/Android/WTMV3/whitem-wtm3-android/app/src/main/res/layout/stock_token_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WhiteMartins/Android/WTMV3/whitem-wtm3-android/app/src/main/res/layout/test_w_t_m_base_activity.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WhiteMartins/Android/WTMV3/whitem-wtm3-android/app/src/main/res/layout/transparent_empty_activity.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Heineken/Android/WTMV3/hkm-wtm-pre-sales-android/heineken_wtm3ps/src/main/res/layout/activity_main.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Heineken/Android/WTMV3/hkm-wtm-pre-sales-android/heineken_wtm3ps/src/main/res/layout/activity_order_free_goods.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Heineken/Android/WTMV3/hkm-wtm-pre-sales-android/heineken_wtm3ps/src/main/res/layout/activity_product_sales.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Heineken/Android/WTMV3/hkm-wtm-pre-sales-android/heineken_wtm3ps/src/main/res/layout/fragment_empty.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Heineken/Android/WTMV3/hkm-wtm-pre-sales-android/heineken_wtm3ps/src/main/res/layout/fragment_order_finalization_bottom_sheet.xml" value="DEACTIVATED" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Heineken/Android/WTMV3/hkm-wtm-pre-sales-android/heineken_wtm3ps/src/main/res/layout/fragment_order_header.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Heineken/Android/WTMV3/hkm-wtm-pre-sales-android/heineken_wtm3ps/src/main/res/layout/fragment_pricing_formation.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Heineken/Android/WTMV3/hkm-wtm-pre-sales-android/heineken_wtm3ps/src/main/res/layout/fragment_services_order_header.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Heineken/Android/WTMV3/hkm-wtm-pre-sales-android/heineken_wtm3ps/src/main/res/layout/price_formation_detailed_dialog.xml" value="FULL" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Heineken/Android/WTMV3/hkm-wtm-pre-sales-android/heineken_wtm3ps/src/main/res/layout/promotion_list_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Heineken/Android/WTMV3/hkm-wtm-pre-sales-android/heineken_wtm3ps/src/main/res/layout/simple_recyclerview_layout.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Heineken/Android/WTMV3/hkm-wtm-pre-sales-android/heineken_wtm3ps/src/main/res/menu/menu_empties_sales.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Heineken/Android/WTMV3/hkm-wtm-pre-sales-android/heineken_wtm3ps/src/main/res/menu/menu_order_exchange.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Mars/WTMV3/marsmx-wtm-android/app/src/main/res/layout/activity_general_order.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Mars/WTMV3/marsmx-wtm-android/app/src/main/res/layout/activity_splash.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Mars/WTMV3/marsmx-wtm-android/app/src/main/res/layout/combo_order_items_list_item_compact.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Mars/WTMV3/marsmx-wtm-android/app/src/main/res/layout/combo_order_items_list_item_details.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Mars/WTMV3/marsmx-wtm-android/app/src/main/res/layout/combo_product_item_list_item_compact.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Mars/WTMV3/marsmx-wtm-android/app/src/main/res/layout/combo_product_item_list_item_detail.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Mars/WTMV3/marsmx-wtm-android/app/src/main/res/layout/custom_date_picker_view.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Mars/WTMV3/marsmx-wtm-android/app/src/main/res/layout/custom_simple_spinner_dropdown_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Mars/WTMV3/marsmx-wtm-android/app/src/main/res/layout/custom_simple_spinner_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Mars/WTMV3/marsmx-wtm-android/app/src/main/res/layout/debug_config.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Mars/WTMV3/marsmx-wtm-android/app/src/main/res/layout/debug_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Mars/WTMV3/marsmx-wtm-android/app/src/main/res/layout/expandable_view.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Mars/WTMV3/marsmx-wtm-android/app/src/main/res/layout/fragment_order_header.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Mars/WTMV3/marsmx-wtm-android/app/src/main/res/layout/fragment_pricing_formation.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Mars/WTMV3/marsmx-wtm-android/app/src/main/res/layout/fragment_pricing_formation_list.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Mars/WTMV3/marsmx-wtm-android/app/src/main/res/layout/free_goods_order_items_list_item_compact.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Mars/WTMV3/marsmx-wtm-android/app/src/main/res/layout/free_goods_product_item_list_item_compact.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Mars/WTMV3/marsmx-wtm-android/app/src/main/res/layout/missing_products_layout.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Mars/WTMV3/marsmx-wtm-android/app/src/main/res/layout/number_input_field_view.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Mars/WTMV3/marsmx-wtm-android/app/src/main/res/layout/order_header_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Mars/WTMV3/marsmx-wtm-android/app/src/main/res/layout/order_items_combo_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Mars/WTMV3/marsmx-wtm-android/app/src/main/res/layout/order_items_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Mars/WTMV3/marsmx-wtm-android/app/src/main/res/layout/order_items_list_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Mars/WTMV3/marsmx-wtm-android/app/src/main/res/layout/order_items_list_item_compact.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Mars/WTMV3/marsmx-wtm-android/app/src/main/res/layout/order_summary_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Mars/WTMV3/marsmx-wtm-android/app/src/main/res/layout/progress_view.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Mars/WTMV3/marsmx-wtm-android/app/src/main/res/layout/sample_custom_spinner.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Mars/WTMV3/marsmx-wtm-android/app/src/main/res/menu/menu_base_order.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Minerva/WTM/Android/min-wtm-pre-sales-android/wtm-view-customized/src/main/res/layout/minerva_order_filter_item_product.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Minerva/WTM/Android/min-wtm-pre-sales-android/wtm-view-customized/src/main/res/layout/minerva_order_itemlist_section_list_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Moderna/Android/mod-wtm-pre-sales-android/wtm-view-customized/src/main/res/layout/lam_gold_action_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Softys/sft-wtm-presales-android/app/src/main/res/layout/order_break_list.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Softys/sft-wtm-presales-android/app/src/main/res/layout/order_items_product_list.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/Softys/sft-wtm-presales-android/app/src/main/res/layout/order_summary_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/mc1-mc1-android-startup-project/app/src/main/res/drawable/filled_border_background.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/mc1-mc1-android-startup-project/app/src/main/res/drawable/finish_order_button.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/mc1-mc1-android-startup-project/app/src/main/res/layout/activity_general_order.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/mc1-mc1-android-startup-project/app/src/main/res/layout/activity_order_free_goods.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/mc1-mc1-android-startup-project/app/src/main/res/layout/activity_template_selection.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/mc1-mc1-android-startup-project/app/src/main/res/layout/auto_complete_item_selector_view.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/mc1-mc1-android-startup-project/app/src/main/res/layout/fragment_empty.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/mc1-mc1-android-startup-project/app/src/main/res/layout/fragment_order_finalization_bottom_sheet.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/mc1-mc1-android-startup-project/app/src/main/res/layout/fragment_order_header.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/mc1-mc1-android-startup-project/app/src/main/res/layout/number_input_field_view.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/mc1-mc1-android-startup-project/app/src/main/res/layout/order_header_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/mc1-mc1-android-startup-project/app/src/main/res/layout/order_items_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/mc1-mc1-android-startup-project/app/src/main/res/layout/order_items_list_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/mc1-mc1-android-startup-project/app/src/main/res/layout/order_summary_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/mc1-mc1-android-startup-project/app/src/main/res/layout/products_selection_fast_mode_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/mc1-mc1-android-startup-project/app/src/main/res/layout/progress_view.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/mc1-mc1-android-startup-project/app/src/main/res/layout/sample_auto_complete_item_selector.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/mc1-mc1-android-startup-project/app/src/main/res/layout/sliding_tabs_activity.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/Bitbucket/mc1-mc1-android-startup-project/app/src/main/res/menu/menu_base_order.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/AndroidKotlinBasicExamples/app/src/main/res/layout/activity_dice_roller_animated.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/AndroidKotlinBasicExamples/app/src/main/res/layout/activity_tip_time.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/GoogleKotlinCourses/KotlinBasics/HappyBirthday/app/src/main/res/layout/activity_dice_roller.xml" value="FULL" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/GoogleKotlinCourses/KotlinBasics/HappyBirthday/app/src/main/res/layout/activity_main.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/GoogleKotlinCourses/KotlinBasics/HappyBirthday/app/src/main/res/layout/activity_main2.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/GoogleKotlinCourses/KotlinBasics/KotlinExamples/app/src/main/res/layout/activity_dice_roller.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/GoogleKotlinCourses/KotlinBasics/KotlinExamples/app/src/main/res/layout/activity_dice_roller_animated.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/GoogleKotlinCourses/KotlinBasics/android-basics-kotlin-lemonade-app/app/src/main/res/layout/activity_main.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/MyLeakApplication/app/src/main/res/layout/activity_main.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/activity_image_scan.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/activity_login.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/activity_login_firebase_ui.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/activity_login_initial.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/activity_main.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/app_bar_main.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/content_main.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/edit_number_view.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/fragment_gallery.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/fragment_home.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/fragment_place_creation.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/fragment_product_item_detail.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/fragment_product_item_list.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/fragment_product_item_list_grid.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/fragment_product_list.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/fragment_product_list_grid.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/fragment_product_price_creation.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/fragment_recipe_creation.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/fragment_shop_item_creation.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/fragment_shopping_list_creation.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/fragment_shopping_list_selection.xml" value="FULL" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/fragment_shopping_list_selection_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/fragment_slideshow.xml" value="DEACTIVATED" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/fragment_test_item_list.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/group_product_price_list_item_vertical.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/image_scan_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/layout_all_done.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/layout_nothing_to_show.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/multi_field_recycler_view_list_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/multi_field_view.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/nav_header_main.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/number_input_field_view.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/produce_price_list_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/product_price_list_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/product_price_list_item_vertical.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/progress_view.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/recipe_creation_ingredient_list_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/recipe_creation_steps_list_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/recipe_list_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/recipe_list_item_vertical_2.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/recipes_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/sample_multi_field_recycler_view.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/shop_list_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/shop_list_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/shop_list_item_2.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/shop_list_item_vertical.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/shop_list_item_vertical_2.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/shop_product_price_by_place_list_item_vertical.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/shop_product_price_by_placelist_fragment.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/shopping_list_selection_item.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/simple_group_list_item_vertical.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/test.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/transparent_empty_activity.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/transparent_layout.xml" value="FULL" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/vertical_number_input_field_view.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/menu/activity_main_drawer.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/menu/main.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/menu/menu_shop_list.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/menu/menu_shop_price_list.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/navigation/mobile_navigation.xml" value="SPLIT" />
+    <property name="SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/xml/filepaths.xml" value="SPLIT" />
+    <property name="SettingsSearchHistory" value="plugin&#10;plug&#10;default languagee&#10;default language&#10;ctrl+b" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="Source Code Editor With PreviewLayout" value="Editor only" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="TextEditorWithPreview.SplitterProportionKey" value="0.49045426" />
+    <property name="TrendingPluginsSearchHistory" value="database nav&#10;database navigator&#10;database&#10;sqlite&#10;sql" />
+    <property name="UITheme.relaunch" value="true" />
+    <property name="Vcs.Log.Text.Filter.History" value="DatabaseVersion_1&#10;DatabaseVersion_01&#10;AppDatabase&#10;ousetDatabaseEncrypted&#10;setDatabaseEncrypted" />
+    <property name="XDebuggerExpressionEditor_Use_Soft_Wraps" value="true" />
+    <property name="android-component-compatibility-check" value="1591653264608" />
+    <property name="android.apk.viewer" value="0.9356522" />
+    <property name="antivirus.scan.notification.last.shown.time" value="2022-02-07T21:41:32.814669600Z" />
+    <property name="appcds.runOnSecondStart" value="AI-213.7172.25.2113.9014738-201f5a540286ba950379e872b8fe4124fc77991777f66c34d58ca2a3dd2e0cda" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Build.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="bundled.plugins.list.saved.version" value="AI-213.7172.25.2113.9014738" />
+    <property name="colorPickerCategoryProperty" value="MATERIAL_500" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.history.integration.ui.views.SelectionHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.SelectionHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="completion.ml.enabled.notification.shown" value="true" />
+    <property name="debugger.smart.chooser.counter" value="3" />
+    <property name="debugger.speed.search.tree.option.hint.counter" value="1" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="delete.locally.added.files" value="true" />
+    <property name="dir.diff.panel.divider.location" value="402" />
+    <property name="dir.diff.space.button.info" value="1" />
+    <property name="export.settings.path" value="B:\Backup Configurações\Android Studio\settings.jar" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/AppData/Local/Google/AndroidStudio2021.3/device-explorer/samsung-sm_g970f-RX8N2064FJR/data/data/br.com.samuelfujii.shoprice/databases&#10;C:/Users/Unknown/AppData/Local/Google/AndroidStudio2021.3/device-explorer/Samsung_Galaxy_J7_API_32 [emulator-5554]/data/data/br.com.mc1.wtm.template.wtm3ps/databases&#10;F:/MC1/PROJETOS/AzureDevOps/Toledo/TOL - Mbfield Android&#10;C:/Users/Unknown/AppData/Local/Google/AndroidStudio2021.3/device-explorer/Honeywell_CT60_4.7_WXGA_API_28 [emulator-5554]/data/data/br.com.mc1.android.wtm/databases/mc1database.db&#10;C:/Users/Unknown/AppData/Local/Google/AndroidStudio2021.3/device-explorer/Honeywell_CT60_4.7_WXGA_API_28 [emulator-5554]/data/data/br.com.mc1.android.wtm/databases&#10;F:/MC1/PROJETOS/AzureDevOps/Votorantim/VOT - WTM Android Core&#10;F:/MC1/PROJETOS/AzureDevOps/Votorantim/VOT - WTM Android Core/wtm&#10;F:/MC1/PROJETOS/AzureDevOps/WTM Android v1/WTM Sustain 1.8/wtm&#10;C:/Users/Unknown/Downloads/Temp/wtm_whitem_20230214194552_developmentRelease.apk&#10;C:/Users/Unknown/Downloads/Temp/wtm_whitem_20230215195908_officialRelease.apk&#10;F:/MC1/PROJETOS/AzureDevOps/CBL - Celebration Brands Limited/CBL - WTM DSD Android/wtm&#10;C:/Users/Unknown/Downloads/Temp/Mondelez Peru&#10;C:/Users/Unknown/Downloads/Temp/Mondelez Costa Rica&#10;F:/MC1/PROJETOS/AzureDevOps/MC1 Development Examples/MC1 Android - Simple Order Example&#10;F:/MC1/PROJETOS/AzureDevOps/MC1 Development Examples/MC1 Android - Simple Order&#10;F:/MC1/PROJETOS/AzureDevOps/MC1 Development Examples&#10;F:/MC1/PROJETOS/AzureDevOps/MC1 Development Examples/MC1 Android - Address Showcase&#10;F:/MC1/PROJETOS/AzureDevOps/WTM Android/MC1 Pricing&#10;F:/MC1/PROJETOS/AzureDevOps/BRF ME/BRFME - WTM V3 Android&#10;F:/MC1/PROJETOS/AzureDevOps/Bocadeli/Bocadeli - WTM Android V3&#10;C:/Users/Unknown/Downloads/Temp/volley-1.1.1&#10;C:/Users/Unknown/AppData/Local/Google/AndroidStudio2021.3/device-explorer/samsung-sm_g970f-adb-RX8N2064FJR-KkTavo._adb-tls-connect._tcp/data/data/br.com.samuelfujii.shoprice/databases&#10;F:/MC1/PROJETOS/AzureDevOps/Ferrero Brasil/FER - WTM PreSales Android&#10;F:/Projetos/My Projects/Android/Shoprice/app/build/intermediates/apk/debug/app-debug.apk&#10;F:/MC1/PROJETOS/AzureDevOps/CBL - Celebration Brands Limited/CBL - WTM Android Pre Sales v3&#10;F:/MC1/PROJETOS/AzureDevOps/CBL - Celebration Brands Limited&#10;C:/Users/Unknown/Downloads/Temp/mc1database.db&#10;F:/MC1/PROJETOS/AzureDevOps/Test&#10;C:/Users/Unknown/AppData/Local/Google/AndroidStudio2021.2/device-explorer/samsung-sm_g970f-adb-RX8N2064FJR-KkTavo._adb-tls-connect._tcp/data/data/br.com.samuelfujii.shoprice/databases&#10;C:/Users/Unknown/Pictures/Temp/Chanut-Role-Playing-King.svg" />
+    <property name="file.gist.reindex.count" value="215705" />
+    <property name="file.history.selection.comments.splitter.proportion" value="0.61179364" />
+    <property name="file.history.selection.diff.splitter.proportion" value="0.49876237" />
+    <property name="fileTypeChangedCounter" value="1004" />
+    <property name="fileTypeDetectors" value="com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector:com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.jetbrains.cidr.lang.OCHeaderFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="find.popup.splitter" value="0.52018636" />
+    <property name="got.it.tooltip.changes.view.toolwindow" value="1" />
+    <property name="got.it.tooltip.extract.method.gotit.navigate" value="1" />
+    <property name="got.it.tooltip.extract.method.signature.change" value="1" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="got.it.tooltip.terminal.smart_command_execution" value="1" />
+    <property name="ide.updates.previous.build.number" value="AI-212.5712.43.2112.8609683" />
+    <property name="inspector.open.Declared Attributes" value="true" />
+    <property name="inspector.open.textAppearance" value="true" />
+    <property name="installed.kotlin.plugin.version" value="213-1.7.10-release-for-android-studio-AS6777.52" />
+    <property name="kotlin-gradle-user-dirs" value="C:\Users\Unknown\.gradle" />
+    <property name="kotlin.lastUpdateCheck" value="1683047922926" />
+    <property name="kotlin.updates.whats.new.shown.for" value="1.7.10" />
+    <property name="lastSeenTip" value="InjectSQLLanguage.html" />
+    <property name="lastTimeTipsWereShown" value="1654069774050" />
+    <property name="lastTip" value="80" />
+    <property name="last_opened_file_path" value="F:/MC1/PROJETOS/AzureDevOps/Toledo/TOL - Mbfield Android" />
+    <property name="new.jvm.backend.notification" value="true" />
+    <property name="newly.installed.api.level" value="29" />
+    <property name="psd.dependencies.main.vertical.splitter.proportion" value="0.7504" />
+    <property name="quick.doc.font.size.v3" value="SMALL" />
+    <property name="registry.to.advanced.settings.migration.build" value="AI-213.7172.25.2113.9014738" />
+    <property name="resourceExplorer.lastChosenDirectory" value="$USER_HOME$/Downloads/Temp/dice_images/dice_images/dice_1.png" />
+    <property name="seenTips" value="InjectSQLLanguage.html" />
+    <property name="selected.color.option.type" value="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <property name="settings.code.style.selected.tab.Groovy" value="Wrapping and Braces" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Spaces" />
+    <property name="settings.code.style.selected.tab.XML" value="Android" />
+    <property name="settings.code.style.selected.tab.kotlin" value="Other" />
+    <property name="studio.profilerSESSION_EXPANDED_WIDTH" value="206" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="use.android.renderer" value="false" />
+    <property name="vcs.branch.view.diff.splitter.proportion" value="0.49666667" />
+    <property name="vcs.branch.view.splitter.proportion" value="0.19268559" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.43846563" />
+    <property name="vcs.history.splitter.proportion" value="0.63705105" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.58502537" />
+    <property name="vcs.log.details.splitter.proportion" value="0.67638487" />
+    <property name="vcs.log.diff.splitter.proportion" value="0.7606264" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "#xdebugger.evaluate.splitter": "0.48037678",
+    "ATTACHED_TOOL_WINDOW.Compose Preview.TOOL_ORDER": "",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.Compose Preview.TOOL_ORDER": "",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.DESIGN_FILES_PREVIEW_EDITOR.TOOL_ORDER": "",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.Database Inspector.DATABASES.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.Database Inspector.DATABASES.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.Database Inspector.DATABASES.MINIMIZED": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.Database Inspector.DATABASES.SPLIT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.Database Inspector.TOOL_ORDER": "DATABASES",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.PROPERTIES.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.PROPERTIES.LEFT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.PROPERTIES.MINIMIZED": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.PROPERTIES.SPLIT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.TOOL_ORDER": "TREE,PROPERTIES",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.TREE.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.TREE.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.TREE.MINIMIZED": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.TREE.SPLIT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.Main Preview.TOOL_ORDER": "",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.HOSTS.FULL.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.HOSTS.FULL.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.HOSTS.FULL.MINIMIZED": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.HOSTS.FULL.SPLIT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.HOSTS.SPLIT.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.HOSTS.SPLIT.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.HOSTS.SPLIT.MINIMIZED": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.HOSTS.SPLIT.SPLIT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.PROPERTIES.FULL.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.PROPERTIES.FULL.LEFT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.PROPERTIES.FULL.MINIMIZED": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.PROPERTIES.FULL.SPLIT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.PROPERTIES.SPLIT.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.PROPERTIES.SPLIT.LEFT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.PROPERTIES.SPLIT.MINIMIZED": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.PROPERTIES.SPLIT.SPLIT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.TOOL_ORDER": "PROPERTIES,TREE,HOSTS",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.TREE.FULL.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.TREE.FULL.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.TREE.FULL.MINIMIZED": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.TREE.FULL.SPLIT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.TREE.SPLIT.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.TREE.SPLIT.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.TREE.SPLIT.MINIMIZED": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NAV_EDITOR.TREE.SPLIT.SPLIT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.DEACTIVATED.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.DEACTIVATED.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.DEACTIVATED.MINIMIZED": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.DEACTIVATED.SPLIT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.MINIMIZED": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.SPLIT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT.MINIMIZED": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT.SPLIT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.DEACTIVATED.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.DEACTIVATED.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.DEACTIVATED.MINIMIZED": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.DEACTIVATED.SPLIT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.MINIMIZED": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.SPLIT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT.MINIMIZED": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT.SPLIT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.DEACTIVATED.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.DEACTIVATED.LEFT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.DEACTIVATED.MINIMIZED": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.DEACTIVATED.SPLIT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.LEFT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.MINIMIZED": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.SPLIT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT.LEFT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT.MINIMIZED": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT.SPLIT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.TOOL_ORDER": "PALETTE,PROPERTIES,COMPONENT_TREE",
+    "ATTACHED_TOOL_WINDOW.DESIGN_FILES_PREVIEW_EDITOR.TOOL_ORDER": "",
+    "ATTACHED_TOOL_WINDOW.Database Inspector.DATABASES.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.Database Inspector.LEFT.UNSCALED.WIDTH": "351",
+    "ATTACHED_TOOL_WINDOW.Database Inspector.RIGHT.UNSCALED.WIDTH": "225",
+    "ATTACHED_TOOL_WINDOW.Database Inspector.TOOL_ORDER": "DATABASES",
+    "ATTACHED_TOOL_WINDOW.Layout Inspector.LEFT.UNSCALED.WIDTH": "562",
+    "ATTACHED_TOOL_WINDOW.Layout Inspector.PROPERTIES.SPLIT": "true",
+    "ATTACHED_TOOL_WINDOW.Layout Inspector.RIGHT.UNSCALED.WIDTH": "531",
+    "ATTACHED_TOOL_WINDOW.Layout Inspector.TOOL_ORDER": "TREE,PROPERTIES",
+    "ATTACHED_TOOL_WINDOW.Layout Inspector.TREE.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.Layout Inspector.TREE.SPLIT": "true",
+    "ATTACHED_TOOL_WINDOW.Main Preview.TOOL_ORDER": "",
+    "ATTACHED_TOOL_WINDOW.NAV_EDITOR.HOSTS.FULL.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.NAV_EDITOR.HOSTS.SPLIT.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.NAV_EDITOR.HOSTS.SPLIT.MINIMIZED": "true",
+    "ATTACHED_TOOL_WINDOW.NAV_EDITOR.PROPERTIES.SPLIT.MINIMIZED": "true",
+    "ATTACHED_TOOL_WINDOW.NAV_EDITOR.TOOL_ORDER": "PROPERTIES,TREE,HOSTS",
+    "ATTACHED_TOOL_WINDOW.NAV_EDITOR.TREE.FULL.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.NAV_EDITOR.TREE.FULL.SPLIT": "true",
+    "ATTACHED_TOOL_WINDOW.NAV_EDITOR.TREE.SPLIT.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.NAV_EDITOR.TREE.SPLIT.MINIMIZED": "true",
+    "ATTACHED_TOOL_WINDOW.NAV_EDITOR.TREE.SPLIT.SPLIT": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.DEACTIVATED.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.DEACTIVATED.SPLIT": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.FULL.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.FULL.MINIMIZED": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.FULL.SPLIT": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT.MINIMIZED": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT.SPLIT": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.LEFT.UNSCALED.WIDTH": "332",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.DEACTIVATED.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.FULL.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.FULL.MINIMIZED": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.SPLIT.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.SPLIT.MINIMIZED": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.PROPERTIES.FULL.MINIMIZED": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.RIGHT.UNSCALED.WIDTH": "280",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.TEXT_SEARCH_HISTORY": "linear\nsearc\neditext",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.TOOL_ORDER": "PALETTE,PROPERTIES,COMPONENT_TREE",
+    "BuildView.Splitter.Proportion": "0.35297388",
+    "ChangesViewManager.DETAILS_SPLITTER_PROPORTION": "0.30413494",
+    "ColorChooser.RecentColors": "0-160-195-255,,,22-147-174-255",
+    "CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2": "0.6625442",
+    "CommitChangeListDialog.SPLITTER_PROPORTION_2": "0.76148796",
+    "CommitToolWindow.COMMIT_SPLITTER_PROPORTION": "0.33333334",
+    "DEBUGGER_VISUALIZED_TEXT_SELECTED_TAB#com.intellij.xdebugger.impl.ui.visualizedtext.RawTextVisualizer#com.intellij.xdebugger.impl.ui.visualizedtext.common.JsonTextVisualizer": "com.intellij.xdebugger.impl.ui.visualizedtext.common.JsonTextVisualizer",
+    "ExpandBeforeRunStepsPanel": "true",
+    "FileTemplates.CurrentTab": "Includes",
+    "FileTemplates.SelectedTemplate": "C File Header",
+    "FindSplitterProportion": "0.5175585",
+    "GEMINI_INTELLIJ_INSTALLATION_ID": "11f18f99-b116-4e71-99f6-edb6e1ee12aa",
+    "GradleSupport.hidePassedTests": "false",
+    "GradleSupport.showInternalTestNodes": "false",
+    "INSPECTION_FILTER_HISTORY": "hardcoded",
+    "InstalledPluginsSearchHistory": "sdk\nGemini\nG\ngem\nge",
+    "KEYMAP": "case\ntemplate",
+    "Kotlin-Was-Debugged": "2634",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "5",
+    "LAST_INJECTED_LANGUAGE": "SQLITE-SQL",
+    "LayoutCode.optimizeImports": "false",
+    "LayoutCode.processChangedText": "false",
+    "Lvcs.FileFilter.History": "viewmodel",
+    "MarketplacePluginsSearchHistory": "ProxyAI\nProxy\nP\nJetBrains AI Assistant\nCodeGPT",
+    "MemberChooser.copyJavadoc": "false",
+    "MemberChooser.showClasses": "true",
+    "MoveFile.OpenInEditor": "true",
+    "NEXT_SURVEY_TIMESTAMP": "2025-09-24T14:17:23.648106900Z",
+    "NlScreenModeProvider": "RENDER",
+    "NonModalCommitPromotionState": "SHOWN",
+    "PluginConfigurable.selectionTab": "1",
+    "ProjectStructure.SecondLevelElements": "0.08488964",
+    "RunOnceActivity.TerminalFontSettingsService.fixStoredNonMonospacedFonts": "true",
+    "RunOnceActivity.TerminalOptionsProvider.TerminalEngineMigration.2026.1": "true",
+    "RunOnceActivity.TerminalOptionsProvider.appTitleMigration.2026.1.1": "true",
+    "RunOnceActivity.TerminalOptionsProvider.migration.2025.1.1": "true",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.cache.folding.model.on.disk.true": "true",
+    "RunOnceActivity.cidr.test.framework.showIndexingAsTask": "true",
+    "RunOnceActivity.cidr.test.roots.only": "true",
+    "RunOnceActivity.git.modal.commit.deprecation.notification": "true",
+    "RunOnceActivity.git.modal.commit.toggle": "true",
+    "RunOnceActivity.reset.auto.reparse.settings.to.default": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "RunOnceActivity.set.chat.model.provider.canary4": "true",
+    "SAVED_ANDROID_NPW_ASKED_LANGUAGE": "true",
+    "SAVED_ANDROID_NPW_LANGUAGE": "Kotlin",
+    "SAVED_ANDROID_PACKAGE": "com.samuelfujii",
+    "SHOW_INHERITED.file.structure.state": "true",
+    "SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Heineken BR/HKBR - WTM Android V3/app/src/main/res/layout/list_alert_dialog_layout.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/Heineken/Android/HKM - WTM Pre-Sales Android/heineken_wtm3ps/src/main/res/layout/price_formation_detailed_dialog.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/order_items_fragment.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project/app/src/main/res/layout/price_formation_detailed_dialog.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WTM Android/WTM Android/WTMApp/app/src/main/res/layout/custom_order_items_fragment.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WTM Android/WTM Android/WTMOrder/src/main/res/layout/order_header_fragment.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_F:/MC1/PROJETOS/AzureDevOps/WTM Android/WTM Android/WTMOrder/src/main/res/layout/order_items_fragment.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/drawable-v24/ic_launcher_foreground.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/drawable/ic_logo_big.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/activity_fullscreen.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/activity_login.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/activity_login_firebase_ui.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/activity_main.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/app_bar_main.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/fragment_home.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/fragment_product_price_creation.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/fragment_share.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/fragment_shop_item_creation.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/fragment_shopping_list_creation.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/fragment_shopping_list_selection.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/fragment_sync_progress.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/shop_list_fragment.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/shopping_list_selection_item.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/layout/simple_group_list_item_vertical.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_F:/Projetos/My Projects/Android/Shoprice/app/src/main/res/navigation/mobile_navigation.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_F:/Projetos/MyProjects/Android/KMPEventOrganizer/androidApp/src/androidMain/res/mipmap-anydpi-v26/ic_launcher.xml": "DEACTIVATED",
+    "SPLIT_EDITOR_MODE_F:/Projetos/MyProjects/Android/Shoprice/app/src/main/res/drawable/ic_baseline_warning_12.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_F:/Projetos/MyProjects/Android/Shoprice/app/src/main/res/layout/activity_login.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_F:/Projetos/MyProjects/Android/Shoprice/app/src/main/res/layout/bitmap_popup.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_F:/Projetos/MyProjects/Android/Shoprice/app/src/main/res/layout/fragment_home.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_F:/Projetos/MyProjects/Android/Shoprice/app/src/main/res/layout/fragment_product_price_creation.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_F:/Projetos/MyProjects/Android/Shoprice/app/src/main/res/layout/fragment_share.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_F:/Projetos/MyProjects/Android/Shoprice/app/src/main/res/layout/product_price_search_fragment.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_F:/Projetos/MyProjects/Android/Shoprice/app/src/main/res/layout/product_price_search_website_item.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_F:/Projetos/MyProjects/Android/SystemLogger/app/src/main/res/layout/activity_main.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_F:/Projetos/MyProjects/Android/SytemLoggerViewer/app/src/main/res/layout/activity_main.xml": "SPLIT",
+    "SettingsSearchHistory": "sdk\nai\nstudio lab\nsoft wra\nadb",
+    "StudioBot.Agent.MigratedToPermissions": "true",
+    "StudioBot.Agent.conversationMode": "FAST",
+    "TextEditorWithPreview.SplitterProportionKey": "0.6215865",
+    "Vcs.Log.Text.Filter.History": "feature/ORDER-MODULE_allow_customize_viewModels\nsamuel",
+    "XDebuggerExpressionEditor_Use_Soft_Wraps": "true",
+    "android.psd.proportion.modules": "0.25287357",
+    "appcds.runOnSecondStart": "AI-223.8836.35.2231.11005911-7366a406fdbf4366707db46dd76aec2d147c6c3e04b3b2975cc700fafb2f8d26",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.run.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "bundled.plugins.list.saved.version": "AI-223.8836.35.2231.11005911",
+    "colorPickerCategoryProperty": "MATERIAL_ACCENT_200",
+    "com.android.tools.idea.layoutinspector.runningdevices.ui.uiconfigkey": "HORIZONTAL",
+    "com.android.tools.idea.marketing.dialog.show.count.fujii.samuel@gmail.com": "2",
+    "com.android.tools.idea.marketing.dialog.shown.once.fujii.samuel@gmail.com.2025.2": "true",
+    "com.android.tools.idea.marketing.dialog.shown.once.fujii.samuel@gmail.com.2025.3": "true",
+    "com.google.aiplugin.rag.indexer.implementation": "com.google.aiplugin.rag.bm25.CrawlerBm25Indexer/v3",
+    "com.intellij.history.integration.ui.views.FileHistoryDialog.0": "300",
+    "com.intellij.history.integration.ui.views.FileHistoryDialog.1": "800",
+    "com.intellij.history.integration.ui.views.SelectionHistoryDialog.0": "300",
+    "com.intellij.history.integration.ui.views.SelectionHistoryDialog.1": "800",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "Java",
+    "com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor": "Sources",
+    "create.project.preferred.importer": "Existing sources",
+    "debugger.layout.watches.defaultThreadsProportion": "0.30297723",
+    "debugger.smart.chooser.counter": "3",
+    "debugger.speed.search.tree.option.hint.counter": "1",
+    "decompiler.legal.notice.accepted": "true",
+    "defaultJdkConfigured": "true",
+    "enter_selection_count": "5",
+    "experimental.ui.used.version": "261.23567.138.2611.15646644",
+    "file.gist.reindex.count": "150",
+    "fileTypeChangedCounter": "12",
+    "find.popup.splitter": "0.52369076",
+    "fontSizeToResetConsole": "12.0",
+    "fontSizeToResetEditor": "12.0",
+    "git.working.trees.stop.showing.new.badge": "true",
+    "got.it.tooltip.Plugins Auto-Update": "1",
+    "got.it.tooltip.filter.tip": "1",
+    "got.it.tooltip.new.terminal.promotion.243": "1",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "gotit.previous.run": "AI-223.8836.35.2231.11005911",
+    "ide.islands.ab3": "true",
+    "ide.islands.new.darcula": "true",
+    "ide.islands.show.feedback3": "done",
+    "ide.self.update.started.for.build": "AI-261.23567.138.2611.15646644",
+    "idea.islands.enabled": "true",
+    "inspector.open.Declared Attributes": "true",
+    "installed.kotlin.plugin.version": "261.23567.138.2611.15646644-AS",
+    "kotlin.lastUpdateCheck": "1787234331793",
+    "kotlin.updates.whats.new.shown.for": "2.2.20",
+    "last.imported.location": "F:/MC1/PROJETOS/AzureDevOps/Mobile People Projects/FLD - WTM Android QST",
+    "last_opened_file_path": "T:/Android/Sdk",
+    "migrate.android.sdk.path.to.roamable.storage": "false",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "newly.installed.api.level": "23",
+    "plugins.preselection.path": "C:/Users/Unknown/Downloads",
+    "previousColorScheme": "_@user_Light",
+    "project.wizard.group": "NPW.simple-module",
+    "registry.to.advanced.settings.migration.build": "AI-261.23567.138.2611.15646644",
+    "selected.color.option.type": "SOFT_WRAP_SIGN_COLOR",
+    "settings.code.style.selected.tab.EditorConfig": "Wrapping and Braces",
+    "settings.code.style.selected.tab.Groovy": "Wrapping and Braces",
+    "settings.code.style.selected.tab.HTML": "Code Generation",
+    "settings.code.style.selected.tab.JAVA": "Wrapping and Braces",
+    "settings.code.style.selected.tab.JSON": "Wrapping and Braces",
+    "settings.code.style.selected.tab.ObjectiveC": "Wrapping and Braces",
+    "settings.code.style.selected.tab.XML": "Code Generation",
+    "settings.code.style.selected.tab.kotlin": "Wrapping and Braces",
+    "studio.bot.first.time.shown": "true",
+    "studio.bot.shown": "true",
+    "studio.ml.bot.history.legacySessionRestored": "true",
+    "tasks.pass.word.conversion.enforced": "true",
+    "terminal.gen.one.option.visible": "false",
+    "updater.configure.tools.details.checkbox.selected": "true",
+    "vcs.branch.view.splitter.proportion": "0.122777775",
+    "vcs.history.diff.splitter.proportion": "0.5413493",
+    "vcs.log.changes.splitter.proportion": "0.5791481",
+    "vcs.log.details.splitter.proportion": "0.6122449",
+    "vcs.log.diff.splitter.proportion": "0.64828897"
+  },
+  "keyToStringList": {
+    "DAILY_ACTION_TIMESTAMPS": [
+      "2025-09-17T14:17:23.555107200Z",
+      "2025-11-26T09:15:19.887573Z",
+      "2025-12-26T09:53:53.201354800Z",
+      "2026-01-14T22:51:05.280090800Z",
+      "2026-01-18T00:44:31.595665Z",
+      "2026-01-22T23:16:19.014794100Z",
+      "2026-01-24T07:58:44.949674400Z",
+      "2026-01-26T05:55:23.947523400Z",
+      "2026-01-27T15:38:54.297332600Z",
+      "2026-01-28T19:48:25.771285600Z",
+      "2026-01-30T19:01:42.878574400Z",
+      "2026-02-02T22:06:47.783711500Z",
+      "2026-02-04T13:21:40.639836300Z",
+      "2026-02-05T23:44:52.993756600Z",
+      "2026-02-08T14:27:33.299339100Z",
+      "2026-02-09T16:19:44.451035600Z",
+      "2026-02-13T16:50:18.406525400Z",
+      "2026-02-19T01:25:09.701219100Z",
+      "2026-02-26T12:52:54.220733900Z",
+      "2026-03-02T23:08:01.869648400Z",
+      "2026-03-05T15:31:51.185527900Z",
+      "2026-03-09T16:26:15.591485100Z",
+      "2026-03-10T18:36:44.669505Z",
+      "2026-03-12T17:43:59.448097200Z",
+      "2026-03-23T06:17:19.909810100Z"
+    ],
+    "file.chooser.recent.files": [
+      "T:/Android/Sdk",
+      "F:/Projetos/MyProjects/Android/SystemLogger",
+      "F:/MC1/PROJETOS/AzureDevOps/PepsiCo Mexico/PEPM - WTM Android V3",
+      "F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project",
+      "F:/MC1/PROJETOS/AzureDevOps/PepsiCo BR/PEPBR - WTM Android V3",
+      "F:/MC1/PROJETOS/AzureDevOps/PepsiCo Casa/PEPCASA - WTM Android V3",
+      "F:/MC1/PROJETOS/AzureDevOps/Mobile People Projects/FLD - WTM Android Suite",
+      "F:/MC1/PROJETOS/AzureDevOps/Mobile People Projects/FLD - WTM Android QST",
+      "F:/MC1/PROJETOS/AzureDevOps/Mobile People Projects/FLD - WTM Android Suite/keystore.jks",
+      "F:/MC1/PROJETOS/AzureDevOps/Mobile People Projects/FLD - WTM Android Suite/mbsuite-sync-core",
+      "F:/MC1/PROJETOS/AzureDevOps/Mobile People Projects/FLD - WTM Android Suite/app/src/main/res",
+      "F:/MC1/PROJETOS/AzureDevOps/Mobile People Projects/FLD - WTM Android Suite/app/src/main/AndroidManifest.xml",
+      "F:/MC1/PROJETOS/AzureDevOps/Mobile People Projects/FLD - WTM Android Suite/mbsuite-sync-core/src/main/res",
+      "F:/MC1/PROJETOS/AzureDevOps/Mobile People Projects/FLD - WTM Android Suite/mbsuite-sync-core/src/main/AndroidManifest.xml",
+      "F:/MC1/PROJETOS/AzureDevOps/Mobile People Projects/FLD - WTM Android Suite/sample",
+      "F:/MC1/PROJETOS/AzureDevOps/Mobile People Projects/FLD - WTM Android Suite/app",
+      "C:/Users/Unknown/Desktop",
+      "F:/MC1/PROJETOS/AzureDevOps/Mondelez WACAM/MONDWACAM - WTM Android V3",
+      "C:/Users/Unknown/AppData/Local/Google/AndroidStudio2022.3/device-explorer/Honeywell CT60 4.7 WXGA API 28/data/data/br.com.samuelfujii.shoprice/shared_prefs",
+      "C:/Users/Unknown/AppData/Local/Google/AndroidStudio2022.3/device-explorer/Honeywell CT60 4.7 WXGA API 28/data/data/br.com.samuelfujii.shoprice/databases",
+      "F:/Projetos/MyProjects/Android/Shoprice",
+      "F:/MC1/PROJETOS/AzureDevOps/Test/MC1 Interview - Android Test - Hacker Rank",
+      "C:/Users/Unknown/Downloads/Temp",
+      "F:/MC1/PROJETOS/AzureDevOps/AkzoNobel/AKZ - WTM Android V3",
+      "C:/Users/Unknown/Downloads/Temp/mc1logo2.png",
+      "C:/Users/Unknown/Pictures/Temp/mc1logo2.png",
+      "F:/MC1/PROJETOS/AzureDevOps/WhiteMartins/Android/WTMV3/whitem-wtm3-android",
+      "F:/MC1/PROJETOS/AzureDevOps/PepsiCo MX/PEPM - WTM Android V3",
+      "F:/MC1/PROJETOS/AzureDevOps/Mondelez Europe East/MONDGR - WTM Android v3",
+      "F:/MC1/PROJETOS/AzureDevOps/BRF BR/BRFBR - WTM Android v3"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "com.jetbrains.cidr.lang.OCHeaderFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ],
+    "kotlin-gradle-user-dirs": [
+      "C:\\Users\\Unknown\\.gradle"
+    ]
+  }
+}]]></component>
+  <component name="ReworkedTerminalUsage">{
+  &quot;enterKeyPressedTimes&quot;: 22,
+  &quot;firstIdeSessionMoment&quot;: {
+    &quot;type&quot;: &quot;org.jetbrains.plugins.terminal.TerminalFirstIdeSessionMoment.BeforeTrackingStarted&quot;
+  }
+}</component>
+  <component name="ShownTips">{
+  &quot;shownTips&quot;: {
+    &quot;Kotlin&quot;: 1744782847084,
+    &quot;InjectSQLLanguage&quot;: 1741879481929,
+    &quot;Kotlin_mix&quot;: 1742524601199,
+    &quot;Kotlin_Java_convert&quot;: 1744782841579,
+    &quot;Kotlin_project&quot;: 1744782847970
+  }
+}</component>
+  <component name="TerminalAgentsState">{}</component>
+</application>

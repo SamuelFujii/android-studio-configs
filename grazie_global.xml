@@ -1,0 +1,25 @@
+<application>
+  <component name="GraziConfig">
+    <option name="enabledLanguages">
+      <set>
+        <option value="English (US)" />
+        <option value="Portuguese (Brazil)" />
+      </set>
+    </option>
+    <option name="userDisabledRules">
+      <set>
+        <option value="LanguageTool.EN.OXFORD_SPELLING_Z_NOT_S" />
+        <option value="LanguageTool.EN.OXFORD_SPELLING_GRAM" />
+      </set>
+    </option>
+    <option name="suppressingContext">
+      <SuppressingContext>
+        <option name="suppressed">
+          <set>
+            <option value="animation.|- The `SuccessBadge` component was refactored from relying on standard Compose transitions to using state management via `Animatable` and `LaunchedEffect(Unit)`, ensuring the animation will be displayed when it appears on screen in comparison to the previous approach using a `Boolean` parameter to run the animation." />
+          </set>
+        </option>
+      </SuppressingContext>
+    </option>
+  </component>
+</application>

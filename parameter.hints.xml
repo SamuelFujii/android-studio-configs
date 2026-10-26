@@ -1,0 +1,13 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Kotlin">
+        <added pattern="br.com.mc1.wtm3.marsmx.wtm3.model.db.dao.MC1_PRODUCT_DAO.getMC1_PRODUCTList(whereClause,whereParameters)" />
+        <added pattern="br.com.mc1.android.log.Except.log(message,e)" />
+        <added pattern="java.io.File(parent,child)" />
+      </blacklist>
+    </blacklists>
+    <option id="SHOW_FUNCTION_HINT" value="true" />
+    <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
+  </component>
+</application>

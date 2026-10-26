@@ -1,0 +1,78 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="C:\Users\Unknown\Downloads\Temp\volley-1.1.1" value="true" />
+        <entry key="F:\MC1\PROJETOS\Azure DevOps\PepsiCo Mexico\PepsiCo MX - WTM Android" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\AkzoNobel\AKZ - WTM Android V3" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\BRF BR\BRFBR - WTM Android v3" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\BRF ME\BRFME - WTM V3 Android" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\Bocadeli\Bocadeli - WTM Android V3" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\CBC - Central America Bottling Corporation Guatemala\CBC - WTM Android v3" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\CBL - Celebration Brands Limited\CBL - WTM Android Pre Sales v3" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\CBL - Celebration Brands Limited\CBL - WTM DSD Android\wtm" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\CND\CND - WTM Android v3" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\Ferreiro Latam\FERL - WTM V3 Trade Android" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\Ferrero Brasil\FER - WTM PreSales Android" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\Grupo Lacthosa\LAC - WTM Android v3" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\Heineken BR\HKBR - WTM Android V3" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\Heineken\Android\HKM - WTM Pre-Sales Android" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\Herdez\HERDEZ - WTM Android V3" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\Interview" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\MC1 Development Examples\KotlinTopicsExamples" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\MC1 Development Examples\MC1 Android - Address Showcase" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\MC1 Development Examples\MC1 Android - Simple Order" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\MC1 Development Examples\MC1 Android - Simple Order Example" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\MC1 Development Examples\MC1SMTPEmailTest" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\MC1 Development Examples\SimpleOrder" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\MC1AndroidTestLib" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\MC1Tools\MC1T - Android Startup Project" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\Mars\MARSMX - WTM Android" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\Minerva\MINBR - WTM Android v3" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\Mobile People Projects\FLD - WTM Android QST" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\Mobile People Projects\FLD - WTM Android Suite" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\Mobile People Projects\FLD - WTM Android Suite\app" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\Mobile People Projects\FLD - WTM Android Suite\mbsuite-sync-core" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\Moderna\MOD - WTM Android v3" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\Moderna\MOD - WTM Pre-Sales Android - v1\wtm" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\Mondelez Argentina\MONDA - WTM Android v3" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\Mondelez Brasil\MONDB - WTM Android v3" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\Mondelez Europe East\MONDGR - WTM Android v3" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\Mondelez Mexico\MONDMX - WTM Android v3" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\Mondelez WACAM\MONDWACAM - WTM Android V3" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\PepsiCo BR\PEPBR - WTM Android V3" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\PepsiCo Casa\PEPCASA - WTM Android V3" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\PepsiCo MX\PEPM - WTM Android V3" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\PepsiCo Mexico\PEPM - WTM Android V3" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\Santander\WTM Santander Field Android\wtm" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\Softsys\SFT - WTM PreSales Android" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\Test\MC1 Interview - Android Test" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\Test\MC1 Interview - Android Test - Hacker Rank" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\Test\MC1ExamplesMeeting1" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\Test\SimpleOrder" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\Toledo\TOL - Mbfield Android" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\Votorantim\VOT - WTM Android Core" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\Votorantim\VOT - WTM Android Core\wtm" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\Votorantim\VOT - WTM Android\wtm" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\WTM Android v1\WTM Sustain 1.8\wtm" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\WTM Android\MC1 Pricing" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\WTM Android\WTM Android" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\WTM Android\WTM IoT" value="true" />
+        <entry key="F:\MC1\PROJETOS\AzureDevOps\WhiteMartins\Android\WTMV3\whitem-wtm3-android" value="true" />
+        <entry key="F:\MC1\PROJETOS\Bitbucket\Softys\sft-wtm-presales-android" value="true" />
+        <entry key="F:\Projetos\My Projects\Android\Apollo\LearnGraphQL\apollo-kotlin-tutorial" value="true" />
+        <entry key="F:\Projetos\My Projects\Android\GoogleKotlinCourses\KotlinBasics\KotlinExamples" value="true" />
+        <entry key="F:\Projetos\My Projects\Android\HasuraCourse\LearnGraphQL" value="true" />
+        <entry key="F:\Projetos\My Projects\Android\HasuraCourse\LearnGraphQL\learn-graphql" value="true" />
+        <entry key="F:\Projetos\My Projects\Android\HasuraCourse\LearnGraphQL\learn-graphql\tutorials\mobile\android-apollo\app-boilerplate" value="true" />
+        <entry key="F:\Projetos\My Projects\Android\HasuraCourse\LearnGraphQL\tutorials\mobile\android-apollo\app-boilerplate" value="true" />
+        <entry key="F:\Projetos\My Projects\Android\HasuraCourse\LearnGraphQL\tutorials\mobile\android-apollo\app-final" value="true" />
+        <entry key="F:\Projetos\My Projects\Android\Shoprice" value="true" />
+        <entry key="F:\Projetos\MyProjects\Android\KMPEventOrganizer" value="true" />
+        <entry key="F:\Projetos\MyProjects\Android\Shoprice" value="true" />
+        <entry key="F:\Projetos\MyProjects\Android\SystemLogger" value="true" />
+        <entry key="F:\Projetos\MyProjects\Android\SytemLoggerViewer" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

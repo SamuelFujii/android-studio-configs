@@ -1,0 +1,23 @@
+<application>
+  <component name="FileTypeManager" version="19">
+    <extensionMap>
+      <mapping pattern="recipe_types" type="AUTO_DETECTED" />
+      <mapping pattern="mc1keystore" type="AUTO_DETECTED" />
+      <mapping pattern="DownloadSchema" type="AUTO_DETECTED" />
+      <mapping pattern="graphiql" type="AUTO_DETECTED" />
+      <mapping pattern="FragmentExt" type="AUTO_DETECTED" />
+      <mapping pattern="SchemaDownloadScript" type="AUTO_DETECTED" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="my-db" type="Native" />
+      <mapping ext="graphql" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="graphql" approved="true" type="GraphQL" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <mapping ext="plantuml" type="PlantUML file" />
+      <mapping pattern="aa" type="Images" />
+    </extensionMap>
+  </component>
+</application>

@@ -1,0 +1,29 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine -message:setRequestedFrameRate " />
+    <option name="nonFavorites">
+      <list>
+        <option value="package:mine -message:setRequestedFrameRate " />
+        <option value="package:mine -message:setRequestedFrameRate uistate" />
+        <option value="package:mine -message:setRequestedFrameRate" />
+        <option value="package:mine " />
+        <option value="package:mine" />
+        <option value="package:mine calc in" />
+        <option value="package:mine exception" />
+        <option value="package:mine shopping" />
+        <option value="package:mine reca" />
+        <option value="exception" />
+        <option value="package:mine exce" />
+        <option value="package:mine FirebaseService" />
+        <option value="package:mine teste" />
+        <option value="package:mine mercad" />
+        <option value="package:mine price extracted" />
+        <option value="package:mine OpenShoppingList | SyncProgressFragment | openSyncProgress" />
+        <option value="package:mine OpenShoppingList | SyncProgressFragment" />
+        <option value="package:mine OpenShoppingList" />
+        <option value="exce" />
+        <option value="package:mine check" />
+      </list>
+    </option>
+  </component>
+</application>

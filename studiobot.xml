@@ -1,0 +1,43 @@
+<application>
+  <component name="StudioBotSettings">
+    <option name="acceptedTermsVersion" value="3" />
+    <option name="chatModelId">
+      <ModelIdState>
+        <option name="groupName" value="LM Studio - Local Provider" />
+        <option name="id" value="1234/google/gemma-4-12b-qat" />
+        <option name="providerName" value="Local" />
+      </ModelIdState>
+    </option>
+    <option name="contextSharingModeV2" value="AlwaysShare" />
+    <option name="modelOverrides">
+      <map>
+        <entry key="NextEditPrediction">
+          <value>
+            <ModelIdState>
+              <option name="groupName" value="LM Studio - Local Provider" />
+              <option name="id" value="1234/google/gemma-4-12b-qat" />
+              <option name="providerName" value="Local" />
+            </ModelIdState>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="notificationAlreadyShown">
+      <map>
+        <entry key="create_with_ai_promotion_notification_DAC" value="true" />
+      </map>
+    </option>
+    <option name="onboardedVersion" value="3" />
+    <option name="queryHistory">
+      <list>
+        <historyEntry timestamp="1768432387074">Still not working. It didn't made a difference at all. The content is cut whenever the keyboard pops up</historyEntry>
+        <historyEntry timestamp="1768432196787">Still not working. It didn't made a difference at all. The content is cut whenever the keyboard pops up</historyEntry>
+        <historyEntry timestamp="1768432050188">I did't made a difference at all, still the same thing</historyEntry>
+        <historyEntry timestamp="1768431893819">Whenever I try to search something using the search bar (the bottomBar in the initial Scaffold) the BottomSheetScaffold it's being cut, like it is jumping outside the top edge of the screen.
+What can it be?</historyEntry>
+        <historyEntry timestamp="1768431291193">Whenever I try to search something using the search bar (the bottomBar in the initial Scaffold) the BottomSheetScaffold it's being cut, like it is jumping outside the top edge of the screen.
+What can it be?</historyEntry>
+      </list>
+    </option>
+  </component>
+</application>

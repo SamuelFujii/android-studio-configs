@@ -1,0 +1,477 @@
+<application>
+  <component name="DebuggerSettings">
+    <filter>
+      <option name="PATTERN" value="com.sun.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="java.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="javax.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.omg.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="sun.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="jdk.internal.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="junit.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.intellij.rt.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.yourkit.runtime.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.springsource.loaded.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.springsource.loaded.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="javassist.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="org.apache.webbeans.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="com.ibm.ws.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="androidx.compose.runtime.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="kotlinx.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+  </component>
+  <component name="NodeRendererSettings">
+    <Renderer ID="ToStringRenderer">
+      <option name="ON_DEMAND" value="true" />
+    </Renderer>
+    <CustomRenderers VERSION="8">
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.samuelfujii.eventorganizer.db.ShoppingItemTracking" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="com.samuelfujii.eventorganizer.db.ShoppingItemTracking" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="id&#13;&#13;Kotlin" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="br.com.samuelfujii.kotlinbasicexamples.diceroller.ui.DiceRollerActivity$Tree" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="br.com.samuelfujii.kotlinbasicexamples.diceroller.ui.DiceRollerActivity$Tree" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="&quot;$element | $maxTreeDepth | $maxTreeNodeDepth&quot;&#13;&#13;Kotlin" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="br.com.samuelfujii.kotlinbasicexamples.diceroller.ui.DiceRollerActivity$Tree$TreeNode" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="br.com.samuelfujii.kotlinbasicexamples.diceroller.ui.DiceRollerActivity$Tree$TreeNode" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="&quot;$element&quot;&#13;&#13;Kotlin" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="br.com.mc1.examples.simpleorder.view.LoadingStep" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="br.com.mc1.examples.simpleorder.view.LoadingStep" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="&quot;$type | $isLoading&quot;&#13;&#13;Kotlin" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="br.com.samuelfujii.shoprice.data.model.entity.ShopItemDetails" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="br.com.samuelfujii.shoprice.data.model.entity.ShopItemDetails" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="productName&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="NAME" value="ShopItem" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="br.com.samuelfujii.shoprice.domain.ShopItem" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="br.com.samuelfujii.shoprice.domain.ShopItem" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="productName&#13;br.com.samuelfujii.shoprice.domain.ShopItem&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="br.com.samuelfujii.shoprice.ui.screens.shoplist.ShopItemViewModel" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="br.com.samuelfujii.shoprice.ui.screens.shoplist.ShopItemViewModel" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" expression="displayName" language="JAVA" mode="CODE_FRAGMENT" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="br.com.samuelfujii.shoprice.ui.screens.shoplist.ShopItem" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="br.com.samuelfujii.shoprice.ui.screens.shoplist.ShopItem" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="productName&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="br.com.mc1.wtm3.whitem.wtm3ps.bo.order.OrderType" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="br.com.mc1.wtm3.whitem.wtm3ps.bo.order.OrderType" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="getXOrderTypeValue()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="br.com.mc1.wtm3.whitem.wtm3ps.model.entities.MC1_STOCKBALANCE_TO" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="br.com.mc1.wtm3.whitem.wtm3ps.model.entities.MC1_STOCKBALANCE_TO" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="getcIDProduct()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="br.com.mc1.wtm.cbc.wtm3ps.model.entities.MC1_ORDEREXT_TO" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="br.com.mc1.wtm.cbc.wtm3ps.model.entities.MC1_ORDEREXT_TO" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="getcIDOrder()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="br.com.mc1.wtm.cbc.wtm3ps.model.entities.MC1_ORDERITEMEXT_TO" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="br.com.mc1.wtm.cbc.wtm3ps.model.entities.MC1_ORDERITEMEXT_TO" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="getnAmount() + &quot; | &quot; + getxIDUnitMeasureType()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="NAME" value="StockItem" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="br.com.mc1.wtm3.custom.wtm3ps.stock.StockItem" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="br.com.mc1.wtm3.custom.wtm3ps.stock.StockItem" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="&quot;$cIDProduct | ${availableAmount.value}&quot;&#13;&#13;Kotlin" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="java.math.BigDecimal" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="java.math.BigDecimal" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="toString()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="java.lang.StackTraceElement" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="java.lang.StackTraceElement" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="String.format(&quot;%s:%s&quot;, declaringClass, lineNumber)&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="br.com.mc1.wtm3.whitem.wtm3ps.model.entities.MC1_CONTROLFSDBALANCEEXT_TO" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="br.com.mc1.wtm3.whitem.wtm3ps.model.entities.MC1_CONTROLFSDBALANCEEXT_TO" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="String.format(&quot;%s|%f|%f&quot;, getcIDProduct(), nAmountPending, nAmountOriginal)&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="NAME" value="MC1_PRODUCT_TO" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="br.com.mc1.wtm3.whitem.wtm3ps.model.entities.MC1_PRODUCT_TO" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="br.com.mc1.wtm3.whitem.wtm3ps.model.entities.MC1_PRODUCT_TO" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="String.format(&quot;%s&quot;, cIDProduct)&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="NAME" value="MockProductTO" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="br.com.mc1.wtm3.whitem.wtm3ps.model.ext.mock.MockProductTO" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="br.com.mc1.wtm3.whitem.wtm3ps.model.ext.mock.MockProductTO" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="&quot;${productIDValue} | ${selectedItemAmount.value}&quot;&#13;&#13;Kotlin" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="NAME" value="OrderItemTO" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="br.com.mc1.wtm.heineken.wtm3ps.model.ext.entities.OrderItemTO" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="br.com.mc1.wtm.heineken.wtm3ps.model.ext.entities.OrderItemTO" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="getOrderItem().getValue().cIDProduct&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="NAME" value="MC1_ORDERITEMDETAIL_TO" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="br.com.mc1.wtm.heineken.wtm3ps.model.entities.MC1_ORDERITEMDETAIL_TO" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="br.com.mc1.wtm.heineken.wtm3ps.model.entities.MC1_ORDERITEMDETAIL_TO" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="String.format(&quot;%s|%s|%s&quot;, cIDOrder, cIDProduct, cIDStep)&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="NAME" value="OrderPromotionTO" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="br.com.mc1.wtm.heineken.wtm3ps.model.ext.entities.OrderPromotionTO" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="br.com.mc1.wtm.heineken.wtm3ps.model.ext.entities.OrderPromotionTO" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="promo.cIDPromotion&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="NAME" value="MC1_ORDERSERVICEWARNINGTYPEEXT_TO" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="br.com.mc1.wtm.heineken.wtm3ps.model.entities.MC1_ORDERSERVICEWARNINGTYPEEXT_TO" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="br.com.mc1.wtm.heineken.wtm3ps.model.entities.MC1_ORDERSERVICEWARNINGTYPEEXT_TO" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="String.format(&quot;%s | %s&quot;, xOrderService, xWarningClassType)&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="NAME" value="MC1_ORDERITEMEXT_TO" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="br.com.mc1.wtm.heineken.wtm3ps.model.entities.MC1_ORDERITEMEXT_TO" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="br.com.mc1.wtm.heineken.wtm3ps.model.entities.MC1_ORDERITEMEXT_TO" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="String.format(&quot;%s | %d | %s &quot;, cIDProduct, nSeq, cIDOrder)&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="NAME" value="MutableLiveData" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="androidx.lifecycle.MutableLiveData" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="androidx.lifecycle.MutableLiveData" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="getValue()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="NAME" value="MC1_ORDERITEM_TO" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="br.com.mc1.wtm.heineken.wtm3ps.model.entities.MC1_ORDERITEM_TO" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="br.com.mc1.wtm.heineken.wtm3ps.model.entities.MC1_ORDERITEM_TO" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="String.format(&quot;%s | %d | %s | %f&quot;, cIDProduct, nSeq, cIDOrder, nAmount)&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="NAME" value="GregorianCalendar" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="java.util.GregorianCalendar" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="java.util.GregorianCalendar" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="toZonedDateTime()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="NAME" value="Step" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="br.com.mc1.android.pricing.Step" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="br.com.mc1.android.pricing.Step" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="String.format(&quot;%s|%s|%s|%s|%s&quot;,getStepId(), getTableName(), getFoundValue(), getCalculatedValue(), getConditionId())&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="NAME" value="CNDOrderGeneralItem_TO" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="br.com.mc1.android.wtm.extended.entity.CNDOrderGeneralItem_TO" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="br.com.mc1.android.wtm.extended.entity.CNDOrderGeneralItem_TO" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="cIDOrder+&quot;|&quot;+cIDCustomer+&quot;|&quot;+cIDProduct+&quot;|&quot;+xIDUnitMeasureType  + &quot;|&quot; + nRemainingAmount&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="NAME" value="PaymentDataExt_TO" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="br.com.mc1.android.wtm.extended.entity.PaymentDataExt_TO" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="br.com.mc1.android.wtm.extended.entity.PaymentDataExt_TO" />
+          <option name="ON_DEMAND" value="true" />
+          <option name="LABEL_EXPRESSION" value="mPaymentDocument.getcIDPaymentDocument() + &quot;|&quot; + mPaymentKind.cIDPaymentKind + &quot;|&quot; + mPaymentKind.xIDPaymentType&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="NAME" value="MC1_STOCKCONTROLITEM_TO" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="br.com.mc1.android.wtm.entities.MC1_STOCKCONTROLITEM_TO" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="br.com.mc1.android.wtm.entities.MC1_STOCKCONTROLITEM_TO" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="cIDProduct + &quot;|&quot; + xIDUnitMeasureType&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="NAME" value="MC1_PRODUCTCOMPONENTSEXT_TO" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="br.com.mc1.android.wtm.entities.MC1_PRODUCTCOMPONENTSEXT_TO" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="br.com.mc1.android.wtm.entities.MC1_PRODUCTCOMPONENTSEXT_TO" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="String.format(&quot;%s|%s|%s&quot;, cIDProduct, cIDProductComponent, xIDUnitMeasureType)&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="NAME" value="ArrayList" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="java.util.ArrayList" />
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="NAME" value="CNDProductInformation_TO" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="br.com.mc1.android.wtm.extended.entity.CNDProductInformation_TO" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="br.com.mc1.android.wtm.extended.entity.CNDProductInformation_TO" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="cIDProduct + &quot;|&quot; +mIDUnitMeasureType  + &quot;|&quot; + nSeq + &quot;|&quot; + mAmount&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="NAME" value="CNDProductInformation_TO.nSeq" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="br.com.mc1.android.wtm.extended.entity.CNDProductInformation_TO" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="br.com.mc1.android.wtm.extended.entity.CNDProductInformation_TO" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="nSeq&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="NAME" value="SearchInfo" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="br.com.mc1.android.pricing.engine.entity.SearchInfo" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="br.com.mc1.android.pricing.engine.entity.SearchInfo" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="getData() + &quot;|&quot; +getTableName()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="NAME" value="Table" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="br.com.mc1.android.pricing.table.Table" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="br.com.mc1.android.pricing.table.Table" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="mName&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="NAME" value="MC1_GENERALDESCRIPTION_TO" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="br.com.mc1.android.wtm.entities.MC1_GENERALDESCRIPTION_TO" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="br.com.mc1.android.wtm.entities.MC1_GENERALDESCRIPTION_TO" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="cDescription&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="NAME" value="br.com.mc1.android.wtm.entities.MC1_GENERALDESCRIPTION_TO" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="br.com.mc1.android.wtm.entities.MC1_GENERALDESCRIPTION_TO" />
+        <Renderer ID="EnumerationChildrenRenderer" role="children">
+          <option name="QUALIFIED_NAME" value="br.com.mc1.android.wtm.entities.MC1_GENERALDESCRIPTION_TO" />
+          <option name="AppendDefault" value="true" />
+        </Renderer>
+      </Renderer>
+    </CustomRenderers>
+  </component>
+  <component name="ThreadsViewSettings">
+    <option name="SHOW_THREAD_GROUPS" value="true" />
+  </component>
+  <component name="XDebuggerSettings">
+    <data-views>
+      <option name="showLibraryStackFrames" value="true" />
+    </data-views>
+    <general>
+      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
+    </general>
+    <debuggers>
+      <debugger id="ObjectiveC">
+        <configuration>
+          <child-process-debugging-settings />
+          <macOS-symbol-settings />
+          <nt-symbol-settings />
+          <option name="VALUES_FILTER_ENABLED" value="false" />
+        </configuration>
+      </debugger>
+    </debuggers>
+  </component>
+</application>

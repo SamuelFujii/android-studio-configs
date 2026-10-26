@@ -1,0 +1,156 @@
+<application>
+  <component name="ModelDataProviders">
+    <option name="providerDetails">
+      <list>
+        <ProviderDetails>
+          <option name="description" value="Gemini" />
+          <option name="providerType" value="GEMINI" />
+        </ProviderDetails>
+        <ProviderDetails>
+          <option name="description" value="Gemini" />
+          <option name="providerType" value="GEMINI_CONSUMER" />
+        </ProviderDetails>
+        <ProviderDetails>
+          <option name="description" value="Gemini" />
+          <option name="providerType" value="GEMINI_ENTERPRISE" />
+        </ProviderDetails>
+        <ProviderDetails>
+          <option name="description" value="Google AI Studio" />
+          <option name="providerType" value="AI_STUDIO" />
+          <option name="providerData" value="&lt;AIStudioProviderData&gt;&#10;  &lt;option name=&quot;defaultApiKey&quot; value=&quot;&quot; /&gt;&#10;&lt;/AIStudioProviderData&gt;" />
+        </ProviderDetails>
+        <ProviderDetails>
+          <option name="description" value="LM Studio - Local Provider" />
+          <option name="lastUpdatedTimestamp" value="1785931072984" />
+          <option name="modelList">
+            <list>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="1234/gemma-4-12b-agentic-fable5-composer2.5-v2-3.5x-tau2@q8_0" />
+                <option name="inputTokenLimit" value="0" />
+                <option name="name" value="gemma-4-12b-agentic-fable5-composer2.5-v2-3.5x-tau2@q8_0" />
+                <option name="outputTokenLimit" value="0" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="1234/gemma-4-12b-agentic-fable5-composer2.5-v2-3.5x-tau2@q4_k_m" />
+                <option name="inputTokenLimit" value="0" />
+                <option name="name" value="gemma-4-12b-agentic-fable5-composer2.5-v2-3.5x-tau2@q4_k_m" />
+                <option name="outputTokenLimit" value="0" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="1234/prism-ml/bonsai-27b" />
+                <option name="inputTokenLimit" value="0" />
+                <option name="name" value="prism-ml/bonsai-27b" />
+                <option name="outputTokenLimit" value="0" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="1234/google/gemma-4-26b-a4b-qat" />
+                <option name="inputTokenLimit" value="0" />
+                <option name="name" value="google/gemma-4-26b-a4b-qat" />
+                <option name="outputTokenLimit" value="0" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="1234/gemma-4-a4b-98e-v7-coder-it" />
+                <option name="inputTokenLimit" value="65536" />
+                <option name="name" value="gemma-4-a4b-98e-v7-coder-it" />
+                <option name="outputTokenLimit" value="65536" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="identifier" value="1234/google/gemma-4-12b-qat" />
+                <option name="inputTokenLimit" value="0" />
+                <option name="name" value="google/gemma-4-12b-qat" />
+                <option name="outputTokenLimit" value="0" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="identifier" value="1234/llmfan46/gemma-4-E4B-it-ultra-uncensored-heretic-GGUF" />
+                <option name="inputTokenLimit" value="0" />
+                <option name="name" value="llmfan46/gemma-4-E4B-it-ultra-uncensored-heretic-GGUF" />
+                <option name="outputTokenLimit" value="0" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="identifier" value="1234/Jackrong/Qwopus3.5-9B-Coder-GGUF" />
+                <option name="inputTokenLimit" value="0" />
+                <option name="name" value="Jackrong/Qwopus3.5-9B-Coder-GGUF" />
+                <option name="outputTokenLimit" value="0" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="identifier" value="1234/jgebbeken/gemma-4-coder-gguf" />
+                <option name="inputTokenLimit" value="131072" />
+                <option name="name" value="jgebbeken/gemma-4-coder-gguf" />
+                <option name="outputTokenLimit" value="131072" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="identifier" value="1234/qwen/qwen3.5-9b" />
+                <option name="inputTokenLimit" value="0" />
+                <option name="name" value="qwen/qwen3.5-9b" />
+                <option name="outputTokenLimit" value="0" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="identifier" value="1234/deucebucket/Gemma-4-26B-A4B-it-Cerebellum-v6-GGUF" />
+                <option name="inputTokenLimit" value="65536" />
+                <option name="name" value="deucebucket/Gemma-4-26B-A4B-it-Cerebellum-v6-GGUF" />
+                <option name="outputTokenLimit" value="65536" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="identifier" value="1234/gemma-4-26b-a4b-it-claude-opus-distill-v2" />
+                <option name="inputTokenLimit" value="0" />
+                <option name="name" value="gemma-4-26b-a4b-it-claude-opus-distill-v2" />
+                <option name="outputTokenLimit" value="0" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="identifier" value="1234/gemma4-26b-a4b-uncensored-hauhaucs-balanced" />
+                <option name="inputTokenLimit" value="0" />
+                <option name="name" value="gemma4-26b-a4b-uncensored-hauhaucs-balanced" />
+                <option name="outputTokenLimit" value="0" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="1234/gemma-4-26b-a4b-it-assistant" />
+                <option name="inputTokenLimit" value="0" />
+                <option name="name" value="gemma-4-26b-a4b-it-assistant" />
+                <option name="outputTokenLimit" value="0" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="identifier" value="1234/gemma-4-e4b-uncensored-hauhaucs-aggressive" />
+                <option name="inputTokenLimit" value="0" />
+                <option name="name" value="gemma-4-e4b-uncensored-hauhaucs-aggressive" />
+                <option name="outputTokenLimit" value="0" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="identifier" value="1234/google/gemma-4-e4b" />
+                <option name="inputTokenLimit" value="0" />
+                <option name="name" value="google/gemma-4-e4b" />
+                <option name="outputTokenLimit" value="0" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="identifier" value="1234/google/gemma-4-26b-a4b" />
+                <option name="inputTokenLimit" value="32768" />
+                <option name="name" value="google/gemma-4-26b-a4b" />
+                <option name="outputTokenLimit" value="32768" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="identifier" value="1234/opus4.7-gods.ghost.codex-4b.gguf" />
+                <option name="inputTokenLimit" value="0" />
+                <option name="name" value="opus4.7-gods.ghost.codex-4b.gguf" />
+                <option name="outputTokenLimit" value="0" />
+              </ModelDetails>
+              <ModelDetails>
+                <option name="enabled" value="false" />
+                <option name="identifier" value="1234/qwen3.5-9b-uncensored-hauhaucs-aggressive" />
+                <option name="inputTokenLimit" value="0" />
+                <option name="name" value="qwen3.5-9b-uncensored-hauhaucs-aggressive" />
+                <option name="outputTokenLimit" value="0" />
+              </ModelDetails>
+            </list>
+          </option>
+          <option name="providerType" value="LOCAL" />
+          <option name="providerData" value="&lt;LocalProviderData&gt;&#10;  &lt;option name=&quot;port&quot; value=&quot;1234&quot; /&gt;&#10;&lt;/LocalProviderData&gt;" />
+        </ProviderDetails>
+      </list>
+    </option>
+  </component>
+</application>

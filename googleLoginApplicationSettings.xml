@@ -1,0 +1,19 @@
+<application>
+  <component name="GoogleLoginApplicationSettings">
+    <option name="activeUser" value="fujii.samuel@gmail.com" />
+    <option name="userEmail2FeaturesStore">
+      <map>
+        <entry key="fujii.samuel@gmail.com">
+          <value>
+            <set>
+              <option value="GiAS" />
+              <option value="User Info" />
+              <option value="Notifications" />
+              <option value="Gemini" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

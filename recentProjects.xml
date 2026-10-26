@@ -1,0 +1,806 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/Ferreiro Latam/FERL - WTM V3 Trade Android">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ferl-wtm-presales-android – CustomApplication.kt [ferl-wtm-presales-android.app.main]" projectWorkspaceId="2CJBrzhoFLGgKHAl8COXTkSxUJD">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-213.7172.25.2113.9014738" />
+              <option name="buildTimestamp" value="1661978542095" />
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1669836503992" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/MC1 Development Examples/SimpleOrder">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Simple Order – ListViewModel.kt [Simple_Order.app.main]" projectWorkspaceId="2IN4WvFcBqok2gH7kIUaQbLqV58">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-213.7172.25.2113.9014738" />
+              <option name="buildTimestamp" value="1661978551064" />
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1670284097370" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/MC1 Development Examples/MC1 Android - Simple Order">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Simple Order [F:\MC1\PROJETOS\AzureDevOps\MC1 Development Examples\MC1 Android - Simple Order] – ListItemViewModel.kt [Simple_Order.app.main]" projectWorkspaceId="2IN4WvFcBqok2gH7kIUaQbLqV58">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-213.7172.25.2113.9014738" />
+              <option name="buildTimestamp" value="1661978547260" />
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1672167754524" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/Votorantim/VOT - WTM Android Core/wtm">
+          <value>
+            <RecentProjectMetaInfo frameTitle="wtm [F:\MC1\PROJETOS\AzureDevOps\Votorantim\VOT - WTM Android Core\wtm] – build.gradle (:)" projectWorkspaceId="2MBg03wenbhRoPXVEyZWf1WyvRQ">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-213.7172.25.2113.9014738" />
+              <option name="buildTimestamp" value="1661978557436" />
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1680722344516" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/Mondelez Brasil/MONDB - WTM Android v3">
+          <value>
+            <RecentProjectMetaInfo frameTitle="mondb-wtm-android – build.gradle (:app)" projectWorkspaceId="28RF0vRMHNOFzEGYIp1A1qeF3d6">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-213.7172.25.2113.9014738" />
+              <option name="buildTimestamp" value="1661978533649" />
+              <frame x="0" y="0" width="1920" height="1040" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1681141787673" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/WTM Android v1/WTM Sustain 1.8/wtm">
+          <value>
+            <RecentProjectMetaInfo frameTitle="wtm – FeedMsgReceiver.java [wtm.wtm-view.main]" projectWorkspaceId="2MC2d4MkbqHZ7auCnxLNWFVs7fz">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-213.7172.25.2113.9014738" />
+              <option name="buildTimestamp" value="1661978534308" />
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1681163304360" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/Votorantim/VOT - WTM Android Core">
+          <value>
+            <RecentProjectMetaInfo frameTitle="VOT - WTM Android Core – main_activity.xml" projectWorkspaceId="2MQ6FnInXDOU9keuoO8fgWlr5C0">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-213.7172.25.2113.9014738" />
+              <option name="buildTimestamp" value="1661978534308" />
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1681171436212" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/CBL - Celebration Brands Limited/CBL - WTM Android Pre Sales v3">
+          <value>
+            <RecentProjectMetaInfo frameTitle="CBL - WTM Android Pre Sales v3 – SimplePricingLoader.java [CBL_-_WTM_Android_Pre_Sales_v3.cbljm_wtm3ps.main]" projectWorkspaceId="2FlgW9lWm5FG4rWNTqIpE38y2nN">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-213.7172.25.2113.9014738" />
+              <option name="buildTimestamp" value="1661978522622" />
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1681419651795" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/Bitbucket/Softys/sft-wtm-presales-android">
+          <value>
+            <RecentProjectMetaInfo frameTitle="sft-wtm-presales-android – OrderSummaryFragment.java [sft-wtm-presales-android.app.main]" projectWorkspaceId="21HKs9MHybwLQblPmbN5NVbYoLx">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-213.7172.25.2113.9014738" />
+              <option name="buildTimestamp" value="1661978544373" />
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1681501563428" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/MC1 Development Examples/MC1 Android - Address Showcase">
+          <value>
+            <RecentProjectMetaInfo frameTitle="MC1 Address Showcase – AppDatabase.kt [MC1_Address_Showcase.app.main]" projectWorkspaceId="28TrXCteNKni7viwo6LmBa4HXzx">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-213.7172.25.2113.9014738" />
+              <option name="buildTimestamp" value="1661978530409" />
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1681818256138" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/Bocadeli/Bocadeli - WTM Android V3">
+          <value>
+            <RecentProjectMetaInfo frameTitle="bocadeli-wtm-presales-android – README.md" projectWorkspaceId="2GxAxsw2Yy2gZmO7Kc2tTSyDL0j">
+              <option name="activationTimestamp" value="1686249295230" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-222.4459.24.2221.10121639" />
+              <option name="buildTimestamp" value="1683875018663" />
+              <frame x="-14" y="-14" width="3866" height="2106" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1686249287569" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/WTM Android/WTM Android">
+          <value>
+            <RecentProjectMetaInfo frameTitle="WTM Android – SupervisorSellersFilterDialog.kt [WTMApp.WTMPlatform]" projectWorkspaceId="24bf3ZipTKRrKS7BF5kWCuRFIPC">
+              <option name="activationTimestamp" value="1686698357806" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-222.4459.24.2221.10121639" />
+              <option name="buildTimestamp" value="1683874983253" />
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1686698357801" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/Minerva/MINBR - WTM Android v3">
+          <value>
+            <RecentProjectMetaInfo frameTitle="minervabr-wtm-presales-android – ParameterBO.kt [minervabr-wtm-presales-android.app.main]" projectWorkspaceId="1rCuD8ffFw7tK1ZKZe3XVPgnBMh">
+              <option name="activationTimestamp" value="1690490940504" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.10406996" />
+              <option name="buildTimestamp" value="1688020642865" />
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1690490891118" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/Moderna/MOD - WTM Android v3">
+          <value>
+            <RecentProjectMetaInfo frameTitle="moderna-wtm-presales-android – PrintPaymentTicketActivity.kt [moderna-wtm-presales-android.app.main]" projectWorkspaceId="1yjGkjLSm4ROMcPdJxc0RU39WIY">
+              <option name="activationTimestamp" value="1690491196034" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.10406996" />
+              <option name="buildTimestamp" value="1688020642865" />
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1690490977603" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/BRF BR/BRFBR - WTM Android v3">
+          <value>
+            <RecentProjectMetaInfo frameTitle="brf-wtm-presales-android – build.gradle (:app)" projectWorkspaceId="1rD2scXJYOcflz2Nz9vNTGyG1OE">
+              <option name="activationTimestamp" value="1692055895268" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.10406996" />
+              <option name="buildTimestamp" value="1688020645066" />
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1692046735172" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/MC1 Development Examples/MC1SMTPEmailTest">
+          <value>
+            <RecentProjectMetaInfo frameTitle="MC1SMTPEmailTest – MainActivity.kt [MC1SMTPEmailTest.app.main]" projectWorkspaceId="2Vibd0A7ts71h8tTI3pnuAY9l4U">
+              <option name="activationTimestamp" value="1695443356898" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.10406996" />
+              <option name="buildTimestamp" value="1688020623389" />
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1695401451219" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/CBL - Celebration Brands Limited/CBL - WTM DSD Android/wtm">
+          <value>
+            <RecentProjectMetaInfo frameTitle="wtm – SteppedGroupCalculation.java [wtm.wtm-business-customized.main]" projectWorkspaceId="2FzhBs0W4JNgAhpZGDo9R2xfsHR">
+              <option name="activationTimestamp" value="1696274072050" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.10406996" />
+              <option name="buildTimestamp" value="1688020670147" />
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1696269968254" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/PepsiCo MX/PEPM - WTM Android V3">
+          <value>
+            <RecentProjectMetaInfo frameTitle="PEPM - WTM Android V3 [F:\MC1\PROJETOS\AzureDevOps\PepsiCo MX\PEPM - WTM Android V3]" projectWorkspaceId="2WDmTcBDXrQhHljTi87agKN29Gd">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.10406996" />
+              <option name="buildTimestamp" value="1688020670147" />
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1696275534701" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/WTM Android/MC1 Pricing">
+          <value>
+            <RecentProjectMetaInfo frameTitle="MC1 Pricing – SearchInfo.java [MC1_Pricing.mc1pricing.main]" projectWorkspaceId="21jhSKFk36tVWfXiKMaNIto2vSH">
+              <option name="activationTimestamp" value="1696904209358" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.10406996" />
+              <option name="buildTimestamp" value="1688020634020" />
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1696875354554" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/MC1 Development Examples/MC1 Android - Simple Order Example">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Simple Order – SharedOrderViewModel.kt [Simple_Order.app.main]" projectWorkspaceId="2IrjG7QWol59zSPl3T119HbYhSK">
+              <option name="activationTimestamp" value="1696983926103" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.10406996" />
+              <option name="buildTimestamp" value="1688020654348" />
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1696983239380" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/AkzoNobel/AKZ - WTM Android V3">
+          <value>
+            <RecentProjectMetaInfo frameTitle="akz-wtm-presales-android – build.gradle (akz-wtm-presales-android)" projectWorkspaceId="2Wt496iIMrbN5YEHvx2yjPJPGq4">
+              <option name="activationTimestamp" value="1697551305514" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.10406996" />
+              <option name="buildTimestamp" value="1688020679738" />
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1697538389822" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/Votorantim/VOT - WTM Android/wtm">
+          <value>
+            <RecentProjectMetaInfo frameTitle="wtm – VCTrackingService.java [wtm.wtm-view-customized.main]" projectWorkspaceId="28kQGvyyfhKUbtec8B8vG9nl5H5">
+              <option name="activationTimestamp" value="1697754778989" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.10406996" />
+              <option name="buildTimestamp" value="1688020670968" />
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1697729223565" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/Heineken BR/HKBR - WTM Android V3">
+          <value>
+            <RecentProjectMetaInfo frameTitle="hkbr-wtm-presales-android – PriceBO.kt [hkbr-wtm-presales-android.app.main]" projectWorkspaceId="1riQnZ9R8gStKPYhGMiGGyCTP4f">
+              <option name="activationTimestamp" value="1698086738402" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.10406996" />
+              <option name="buildTimestamp" value="1688020667083" />
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1698081235774" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/CBC - Central America Bottling Corporation Guatemala/CBC - WTM Android v3">
+          <value>
+            <RecentProjectMetaInfo frameTitle="CBC - WTM Android v3 – build.gradle (:cbc_wtm3ps)" projectWorkspaceId="294CqcXjFZ3YdecRMXnbqYIkHur">
+              <option name="activationTimestamp" value="1699293060660" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.10406996" />
+              <option name="buildTimestamp" value="1688020640341" />
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1699285068944" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/Mondelez Europe East/MONDGR - WTM Android v3">
+          <value>
+            <RecentProjectMetaInfo frameTitle="mondmeue-wtm-presales-android – ProgressView.kt [mondmeue-wtm-presales-android.app.main]" projectWorkspaceId="2Ul9OQJ0Pd9Out7833O6jlFPQQ7">
+              <option name="activationTimestamp" value="1701218621913" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.10406996" />
+              <option name="buildTimestamp" value="1688020652006" />
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1701218629234" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/Projetos/My Projects/Android/Shoprice">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Shoprice – BaseShoppingListDetailsViewModel.kt [Shoprice.app.main]" projectWorkspaceId="1vS1suV6ZKi8fwsjr0JbRp4kwYw">
+              <option name="activationTimestamp" value="1701223465817" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.10406996" />
+              <option name="buildTimestamp" value="1688020652006" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1701218640627" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/WTM Android/WTM IoT">
+          <value>
+            <RecentProjectMetaInfo frameTitle="WTM IoT – F:\MC1\PROJETOS\AzureDevOps\WTM Android\WTM IoT\wtm-iot\build.gradle" projectWorkspaceId="22QeRMiYDazgybqOdbkyeXLQ7eu">
+              <option name="activationTimestamp" value="1701714701516" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.10406996" />
+              <option name="buildTimestamp" value="1688020652752" />
+              <frame x="-6" y="1" width="1940" height="1100" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1701714006446" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/Test/MC1 Interview - Android Test - Hacker Rank">
+          <value>
+            <RecentProjectMetaInfo frameTitle="MC1 Android Test – Address.kt [MC1_Android_Test.app.main]" projectWorkspaceId="2Zm60wVvNKjZSvRlsvIT900K3Pn">
+              <option name="activationTimestamp" value="1703030940672" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.10406996" />
+              <option name="buildTimestamp" value="1688020630666" />
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1703014687468" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/Projetos/My Projects/Android/GoogleKotlinCourses/KotlinBasics/KotlinExamples">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Kotlin Basic Examples – Test.java [Kotlin_Basic_Examples.app.main]" projectWorkspaceId="26ULxd3EnfPq0g5r4296FnySKkx">
+              <option name="activationTimestamp" value="1703205636405" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.10406996" />
+              <option name="buildTimestamp" value="1688020674795" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1703202320837" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/Test/MC1 Interview - Android Test">
+          <value>
+            <RecentProjectMetaInfo frameTitle="MC1 Android Test – DatabindingAdapters.kt [MC1_Android_Test.app.main]" projectWorkspaceId="28TrXCteNKni7viwo6LmBa4HXzx">
+              <option name="activationTimestamp" value="1706665327053" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.11005911" />
+              <option name="buildTimestamp" value="1698283143836" />
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1706641799172" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/Mondelez WACAM/MONDWACAM - WTM Android V3">
+          <value>
+            <RecentProjectMetaInfo frameTitle="mondwacam-wtm-presales-android – README.md [mondwacam-wtm-presales-android]" projectWorkspaceId="2d0E2Nyhp0I2ZSF1cA1jTkGqX66">
+              <option name="activationTimestamp" value="1709147845507" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.11005911" />
+              <option name="buildTimestamp" value="1698283199646" />
+              <frame x="0" y="0" width="1920" height="1040" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1709136387245" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/Mobile People Projects/FLD - WTM Android Suite/app">
+          <value>
+            <RecentProjectMetaInfo frameTitle="app – build.gradle (:)" projectWorkspaceId="2dHdlmez4gYKiZMogvMbqFwkFd5">
+              <option name="activationTimestamp" value="1709670182254" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.11005911" />
+              <option name="buildTimestamp" value="1698283183797" />
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1709669094192" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/Mobile People Projects/FLD - WTM Android Suite/mbsuite-sync-core">
+          <value>
+            <RecentProjectMetaInfo frameTitle="mbsuite-sync-core" projectWorkspaceId="2dHqMlCwf4izHDBTFt61jR9bbVO">
+              <option name="activationTimestamp" value="1709676627187" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.11005911" />
+              <option name="buildTimestamp" value="1698283183797" />
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1709676627293" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/Mobile People Projects/FLD - WTM Android QST">
+          <value>
+            <RecentProjectMetaInfo frameTitle="FLD - WTM Android QST – README.md [FLD_-_WTM_Android_QST]" projectWorkspaceId="2dHvfJ3QQdD94TPbBbUgt2lbgy7">
+              <option name="activationTimestamp" value="1709680240500" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.11005911" />
+              <option name="buildTimestamp" value="1698283140472" />
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="7" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1709679456480" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/Mobile People Projects/FLD - WTM Android Suite">
+          <value>
+            <RecentProjectMetaInfo frameTitle="FLD - WTM Android Suite – build.gradle (:mbsuite-sync-core)" projectWorkspaceId="2dHbqr8P6tYtyvsJcID7c7wvp2w">
+              <option name="activationTimestamp" value="1709682116501" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.11005911" />
+              <option name="buildTimestamp" value="1698283140472" />
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1709679819745" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/Toledo/TOL - Mbfield Android">
+          <value>
+            <RecentProjectMetaInfo frameTitle="TOL - Mbfield Android – build.gradle [TOL_-_Mbfield_Android.MBField]" projectWorkspaceId="2OKfcluis5w0FEdhB6baKBnxbdw">
+              <option name="activationTimestamp" value="1709682115274" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.11005911" />
+              <option name="buildTimestamp" value="1698283140472" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1709680216540" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/PepsiCo Casa/PEPCASA - WTM Android V3">
+          <value>
+            <RecentProjectMetaInfo frameTitle="PEPCASA - WTM Android V3 – F:\MC1\PROJETOS\AzureDevOps\PepsiCo Casa\PEPCASA - WTM Android V3\app\build.gradle" projectWorkspaceId="2ddTtp13gAgpIw834sYq9UzV4nD">
+              <option name="activationTimestamp" value="1710338431492" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.11005911" />
+              <option name="buildTimestamp" value="1698283192881" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1710337174374" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project">
+          <value>
+            <RecentProjectMetaInfo frameTitle="custom-wtm-presales-android – AndroidManifest.xml [custom-wtm-presales-android.app.main]" projectWorkspaceId="1qIb8UPPOAnolJKJYOOEk4QlDOv">
+              <option name="activationTimestamp" value="1710339652797" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.11005911" />
+              <option name="buildTimestamp" value="1698283192881" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="0" y="0" width="1920" height="1040" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1710339518046" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/CND/CND - WTM Android v3">
+          <value>
+            <RecentProjectMetaInfo frameTitle="cnd-wtm-android – build.gradle [cnd-wtm-android]" projectWorkspaceId="1qCk9PH3SPUjTZuNOvVzaEMLvFY">
+              <option name="activationTimestamp" value="1710451101523" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.11005911" />
+              <option name="buildTimestamp" value="1698283174380" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1710451104745" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/PepsiCo BR/PEPBR - WTM Android V3">
+          <value>
+            <RecentProjectMetaInfo frameTitle="PEPBR - WTM Android V3 – InvoiceBO.java [PEPBR_-_WTM_Android_V3.app.main]" projectWorkspaceId="24TGrFgvE2kLgPojRWDngi1r5JV">
+              <option name="activationTimestamp" value="1710514192328" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.11005911" />
+              <option name="buildTimestamp" value="1698283196901" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1710511242799" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/MC1 Development Examples/KotlinTopicsExamples">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Kotlin Topics Examples – KotlinTypes.kt [Kotlin_Topics_Examples.app.main]" projectWorkspaceId="2cdbRAMqRSxXSPcnwEBHo5iK7qg">
+              <option name="activationTimestamp" value="1710806228255" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.11005911" />
+              <option name="buildTimestamp" value="1698283142701" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1710775501264" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/WTM Android/WTM Android/WTMApp">
+          <value>
+            <RecentProjectMetaInfo frameTitle="WTMApp – Order.java [WTMApp.WTMSales.main]" projectWorkspaceId="271N8QLm6hkrBOazp3q5iT7naSY">
+              <option name="activationTimestamp" value="1710885038279" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.11005911" />
+              <option name="buildTimestamp" value="1698283151436" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1710876485681" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/Heineken/Android/HKM - WTM Pre-Sales Android">
+          <value>
+            <RecentProjectMetaInfo frameTitle="HKM - WTM Pre-Sales Android – BucketManager.class [Gradle: br.com.mc1.android:WTMPlatform:3.23.13@aar]" projectWorkspaceId="1oa0OqxzI8XbEYrFzLM7Es3thC5">
+              <option name="activationTimestamp" value="1710947395236" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.11005911" />
+              <option name="buildTimestamp" value="1698283190822" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1710945901970" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/Azure DevOps/PepsiCo Mexico/PepsiCo MX - WTM Android">
+          <value>
+            <RecentProjectMetaInfo frameTitle="PepsiCo MX - WTM Android – PrintOrderTicket.java [PepsiCo_MX_-_WTM_Android.app.main]" projectWorkspaceId="1r7xiZFd9sAXsySekB6KYaWe9T9">
+              <option name="activationTimestamp" value="1710948114610" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.11005911" />
+              <option name="buildTimestamp" value="1698283190822" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1710947408604" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/PepsiCo Mexico/PEPM - WTM Android V3">
+          <value>
+            <RecentProjectMetaInfo frameTitle="PEPM - WTM Android V3 – build.gradle (:app)" projectWorkspaceId="2WDmHFSrOTYYZYkzlRHNQbTMox6">
+              <option name="activationTimestamp" value="1711154091902" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.11005911" />
+              <option name="buildTimestamp" value="1698283151490" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="-119" y="-13" width="1920" height="1040" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1711128979993" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/MC1/PROJETOS/AzureDevOps/WhiteMartins/Android/WTMV3/whitem-wtm3-android">
+          <value>
+            <RecentProjectMetaInfo frameTitle="whitemartins-wtm-presales-android – Datas.java [Gradle: br.com.caelum.stella:caelum-stella-boleto:2.1.3]" projectWorkspaceId="1hXa8GDJmOVQc5wrWwrUd2UFhJZ">
+              <option name="activationTimestamp" value="1711409201489" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.11005911" />
+              <option name="buildTimestamp" value="1698283150963" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1711391436807" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/Projetos/MyProjects/Android/SystemLogger">
+          <value>
+            <RecentProjectMetaInfo frameTitle="SystemLogger – activity_main.xml [SystemLogger.app.main]" projectWorkspaceId="2xVI6valQE7mdiAGFdhL1VApbcT">
+              <option name="activationTimestamp" value="1760064596297" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-251.26094.121.2513.14007798" />
+              <option name="buildTimestamp" value="1756360680000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="2552" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1760063268956" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/Projetos/MyProjects/Android/SytemLoggerViewer">
+          <value>
+            <RecentProjectMetaInfo frameTitle="SystemLoggerViewer – FirebaseSnapshotService.kt [SystemLoggerViewer.app.main]" projectWorkspaceId="2xVI6valQE7mdiAGFdhL1VApbcT">
+              <option name="activationTimestamp" value="1761358506855" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-251.26094.121.2513.14007798" />
+              <option name="buildTimestamp" value="1756360680000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="-8" y="-8" width="1452" height="1050" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1761329177686" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/Projetos/MyProjects/Android/Shoprice">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Shoprice – F:\Projetos\MyProjects\Android\Shoprice\app\src\main\java\br\com\samuelfujii\shoprice\data\model\entity\UserDeviceEntity.kt" projectWorkspaceId="1vS1suV6ZKi8fwsjr0JbRp4kwYw">
+              <option name="activationTimestamp" value="1777389670309" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-253.32098.37.2534.15232325" />
+              <option name="buildTimestamp" value="1776457080000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="-8" y="-8" width="1930" height="1050" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1777389418938" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/Projetos/MyProjects/Android/KMPEventOrganizer">
+          <value>
+            <RecentProjectMetaInfo frameTitle="KMPEventOrganizer – MoneyField.kt [KMPEventOrganizer.composeApp.commonMain]" opened="true" projectWorkspaceId="35wjjbHiMf9ZUS966PP0BVo4U8E">
+              <option name="activationTimestamp" value="1787683147381" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-261.23567.138.2611.15646644" />
+              <option name="buildTimestamp" value="1781560680000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="-8" y="-8" width="1930" height="1050" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1787683029969" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="groups">
+      <list>
+        <ProjectGroup>
+          <option name="expanded" value="true" />
+          <option name="name" value="Pessoal" />
+          <option name="projects">
+            <list>
+              <option value="F:/Projetos/MyProjects/Android/KMPEventOrganizer" />
+              <option value="F:/Projetos/MyProjects/Android/Shoprice" />
+              <option value="F:/Projetos/MyProjects/Android/SytemLoggerViewer" />
+              <option value="F:/Projetos/MyProjects/Android/SystemLogger" />
+              <option value="F:/Projetos/My Projects/Android/GoogleKotlinCourses/KotlinBasics/KotlinExamples" />
+              <option value="F:/Projetos/My Projects/Android/Shoprice" />
+              <option value="F:/Projetos/My Projects/Android/GoogleKotlinCourses/KotlinBasics/android-basics-kotlin-lemonade-app" />
+              <option value="F:/Projetos/My Projects/Android/Apollo/LearnGraphQL/apollo-kotlin-tutorial" />
+              <option value="F:/Projetos/My Projects/Android/HasuraCourse/LearnGraphQL/tutorials/mobile/android-apollo/app-final" />
+              <option value="F:/Projetos/My Projects/Android/HasuraCourse/LearnGraphQL/tutorials/mobile/android-apollo/app-boilerplate" />
+              <option value="F:/Projetos/My Projects/Android/HasuraCourse/LearnGraphQL" />
+            </list>
+          </option>
+        </ProjectGroup>
+        <ProjectGroup>
+          <option name="expanded" value="true" />
+          <option name="name" value="MC1 | Work" />
+          <option name="projects">
+            <list>
+              <option value="F:/MC1/PROJETOS/AzureDevOps/WhiteMartins/Android/WTMV3/whitem-wtm3-android" />
+              <option value="F:/MC1/PROJETOS/Azure DevOps/PepsiCo Mexico/PepsiCo MX - WTM Android" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/Heineken/Android/HKM - WTM Pre-Sales Android" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/WTM Android/WTM Android/WTMApp" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/MC1 Development Examples/KotlinTopicsExamples" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/PepsiCo BR/PEPBR - WTM Android V3" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/CND/CND - WTM Android v3" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/MC1Tools/MC1T - Android Startup Project" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/Toledo/TOL - Mbfield Android" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/Test/MC1 Interview - Android Test" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/WTM Android/WTM IoT" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/CBC - Central America Bottling Corporation Guatemala/CBC - WTM Android v3" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/Heineken BR/HKBR - WTM Android V3" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/Votorantim/VOT - WTM Android/wtm" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/MC1 Development Examples/MC1 Android - Simple Order Example" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/WTM Android/MC1 Pricing" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/CBL - Celebration Brands Limited/CBL - WTM DSD Android/wtm" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/BRF BR/BRFBR - WTM Android v3" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/Moderna/MOD - WTM Android v3" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/Minerva/MINBR - WTM Android v3" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/WTM Android/WTM Android" />
+              <option value="F:/MC1/PROJETOS/Bitbucket/Softys/sft-wtm-presales-android" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/CBL - Celebration Brands Limited/CBL - WTM Android Pre Sales v3" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/Mondelez Brasil/MONDB - WTM Android v3" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/Ferreiro Latam/FERL - WTM V3 Trade Android" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/BRF ME/BRFME - WTM V3 Android" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/Softsys/SFT - WTM PreSales Android" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/Moderna/MOD - WTM Pre-Sales Android - v1/wtm" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/Herdez/HERDEZ - WTM Android V3" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/Santander/WTM Santander Field Android/wtm" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/Grupo Lacthosa/LAC - WTM Android v3" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/Mars/MARSMX - WTM Android" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/MC1AndroidTestLib" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/Interview" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/WTM Android/MC1 Sync Lib" />
+              <option value="F:/Projetos/My Projects/Android/AndroidKotlinBasicExamples" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/Bimbo Peru/BIPER%20-%20Wtm%20Android" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/Heineken/Android/HKM - WTM Pre-Sales Android IOT" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/WTM Android/WTM Android/WTMPlatform" />
+              <option value="F:/Projetos/My Projects/Android/MyLeakApplication" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/Bimbo Brasil/BIBR - Wtm Android" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/WTM Android/WTM Android/WTMSales" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/Santa Helena/STH - WTM Pre-Sales Android/wtm" />
+              <option value="F:/MC1/PROJETOS/Bitbucket/Minerva/WTM/Android/min-wtm-pre-sales-android/wtm" />
+              <option value="F:/MC1/PROJETOS/Bitbucket/Santander/san-wtm-field-android/wtm" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/Mondelez Colombia - Equador/MONDCE - WTM Android v3" />
+              <option value="F:/MC1/PROJETOS/Bitbucket/Toledo/Android/MBField/tol-mbfield-android" />
+              <option value="F:/MC1/PROJETOS/Bitbucket/BHL/bhl-wtm-dsd-android/wtm" />
+              <option value="F:/MC1/PROJETOS/Bitbucket/MC1 Libs/mc1p-pricing-android-deprecated" />
+              <option value="F:/MC1/PROJETOS/Lactalis/WTMV3/Android/lac-wtm-pre-sales-android" />
+              <option value="F:/MC1/PROJETOS/Bitbucket/Moderna/Android/mod-wtm-pre-sales-android/wtm" />
+              <option value="F:/MC1/PROJETOS/Bitbucket/MC1 Delivery/MC1 Libs/mc1ad-mc1adapter-android" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/Mondelez Argentina/MONDA - WTM Android v3" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/Bocadeli/Bocadeli - WTM Android V3" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/MC1 Development Examples/MC1 Android - Address Showcase" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/Votorantim/VOT - WTM Android Core" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/WTM Android v1/WTM Sustain 1.8/wtm" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/Votorantim/VOT - WTM Android Core/wtm" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/MC1 Development Examples/MC1 Android - Simple Order" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/MC1 Development Examples/SimpleOrder" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/Ferrero Brasil/FER - WTM PreSales Android" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/Test/MC1ExamplesMeeting1" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/PepsiCo Casa/PEPCASA - WTM Android V3" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/Mobile People Projects/FLD - WTM Android Suite" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/Mobile People Projects/FLD - WTM Android QST" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/Mobile People Projects/FLD - WTM Android Suite/mbsuite-sync-core" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/Mobile People Projects/FLD - WTM Android Suite/app" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/PepsiCo Mexico/PEPM - WTM Android V3" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/Mondelez WACAM/MONDWACAM - WTM Android V3" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/Test/MC1 Interview - Android Test - Hacker Rank" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/Mondelez Europe East/MONDGR - WTM Android v3" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/AkzoNobel/AKZ - WTM Android V3" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/PepsiCo MX/PEPM - WTM Android V3" />
+              <option value="F:/MC1/PROJETOS/AzureDevOps/MC1 Development Examples/MC1SMTPEmailTest" />
+            </list>
+          </option>
+        </ProjectGroup>
+      </list>
+    </option>
+    <option name="lastOpenedProject" value="F:/Projetos/MyProjects/Android/KMPEventOrganizer" />
+    <option name="lastProjectLocation" value="F:/Projetos/MyProjects/Android" />
+  </component>
+</application>

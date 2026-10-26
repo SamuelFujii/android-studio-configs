@@ -1,0 +1,9 @@
+<application>
+  <component name="CodeGPT_CodeGPTServiceSettings_280">
+    <option name="codeCompletionSettings">
+      <CodeGPTServiceCodeCompletionSettingsState>
+        <option name="codeCompletionsEnabled" value="false" />
+      </CodeGPTServiceCodeCompletionSettingsState>
+    </option>
+  </component>
+</application>
